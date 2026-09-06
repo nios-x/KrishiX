@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' fill='none' stroke='%2316211b' stroke-width='1.5'><rect x='0.75' y='0.75' width='30.5' height='30.5'/><path d='M16 25V13.4' stroke-linecap='round'/><path d='M16 14.2C16 9.9 12.6 6.5 8.3 6.5c0 4.3 3.4 7.7 7.7 7.7Z' stroke-linejoin='round'/><path d='M16 15.6c0-3.6 2.9-6.5 6.5-6.5 0 3.6-2.9 6.5-6.5 6.5Z' stroke-linejoin='round'/><path d='M6 21.5h6M20 21.5h6' stroke-linecap='round'/></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#e9e7de" />
+    <title>Krishi360 | AI Precision Agriculture Platform</title>
+    <meta name="description" content="AI-driven precision agriculture platform for Indian farmers integrating soil intelligence, crop disease computer vision, and historical production analytics." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300..800&family=Geist+Mono:wght@400..600&family=Raleway:wght@500;600;700;800&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <!--
+      DIRECTION · THE DETERMINATION SHEET
+      A herbarium sheet is the original cooperative record: many hands annotate
+      one specimen across decades and none of them owns it. Archival mount board
+      (cool bone), herbarium-cabinet ink, accession vermillion, determination
+      viridian, pressed-leaf olive. Ruled registration lines, mounted label
+      paper, typed mono labels, layered annotation slips held by mounting tape.
+      Cut edges, never rounded chrome. Raleway determines, Geist labels,
+      Geist Mono measures.
+    -->
+    <script>
+      /* The lay-down needs to know it may hide content before it settles it
+         back. Without JS the class never lands and everything stays visible. */
+      try {
+        if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+          document.documentElement.dataset.motion = 'on';
+        }
+      } catch (e) {}
+      /* Paint the board in the stored theme before first paint, so the sheet
+         never flashes light on a dark-mode reload. */
+      try {
+        if (localStorage.getItem('krishi360_theme') === 'dark') {
+          document.documentElement.classList.add('dark');
+        }
+      } catch (e) {}
+    </script>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

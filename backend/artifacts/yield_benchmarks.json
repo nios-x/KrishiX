@@ -1,0 +1,5822 @@
+{
+  "andaman and nicobar islands__arecanut": {
+    "mean_yield": 1.44,
+    "std_yield": 0.5,
+    "record_count": 17
+  },
+  "andaman and nicobar islands__banana": {
+    "mean_yield": 8.9,
+    "std_yield": 5.46,
+    "record_count": 16
+  },
+  "andaman and nicobar islands__black pepper": {
+    "mean_yield": 0.22,
+    "std_yield": 0.27,
+    "record_count": 14
+  },
+  "andaman and nicobar islands__cashewnut": {
+    "mean_yield": 0.37,
+    "std_yield": 0.24,
+    "record_count": 18
+  },
+  "andaman and nicobar islands__dry chillies": {
+    "mean_yield": 1.72,
+    "std_yield": 1.09,
+    "record_count": 13
+  },
+  "andaman and nicobar islands__dry ginger": {
+    "mean_yield": 4.75,
+    "std_yield": 2.92,
+    "record_count": 17
+  },
+  "andaman and nicobar islands__rice": {
+    "mean_yield": 2.9,
+    "std_yield": 0.9,
+    "record_count": 17
+  },
+  "andaman and nicobar islands__sugarcane": {
+    "mean_yield": 13.41,
+    "std_yield": 10.13,
+    "record_count": 15
+  },
+  "andaman and nicobar islands__sweet potato": {
+    "mean_yield": 5.76,
+    "std_yield": 3.16,
+    "record_count": 11
+  },
+  "andaman and nicobar islands__tapioca": {
+    "mean_yield": 7.42,
+    "std_yield": 2.94,
+    "record_count": 9
+  },
+  "andaman and nicobar islands__turmeric": {
+    "mean_yield": 5.34,
+    "std_yield": 3.45,
+    "record_count": 8
+  },
+  "andaman and nicobar islands__other oilseeds": {
+    "mean_yield": 0.43,
+    "std_yield": 0.21,
+    "record_count": 9
+  },
+  "andhra pradesh__arecanut": {
+    "mean_yield": 1.12,
+    "std_yield": 0.74,
+    "record_count": 41
+  },
+  "andhra pradesh__arhar/tur": {
+    "mean_yield": 0.51,
+    "std_yield": 0.27,
+    "record_count": 340
+  },
+  "andhra pradesh__bajra": {
+    "mean_yield": 1.33,
+    "std_yield": 0.65,
+    "record_count": 309
+  },
+  "andhra pradesh__banana": {
+    "mean_yield": 26.14,
+    "std_yield": 15.55,
+    "record_count": 156
+  },
+  "andhra pradesh__beans & mutter(vegetable)": {
+    "mean_yield": 5.7,
+    "std_yield": 0.88,
+    "record_count": 25
+  },
+  "andhra pradesh__bhindi": {
+    "mean_yield": 7.4,
+    "std_yield": 3.12,
+    "record_count": 26
+  },
+  "andhra pradesh__bottle gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 21
+  },
+  "andhra pradesh__brinjal": {
+    "mean_yield": 13.6,
+    "std_yield": 6.38,
+    "record_count": 104
+  },
+  "andhra pradesh__cabbage": {
+    "mean_yield": 13.51,
+    "std_yield": 10.0,
+    "record_count": 79
+  },
+  "andhra pradesh__cashewnut": {
+    "mean_yield": 0.27,
+    "std_yield": 0.08,
+    "record_count": 168
+  },
+  "andhra pradesh__castor seed": {
+    "mean_yield": 0.52,
+    "std_yield": 0.31,
+    "record_count": 184
+  },
+  "andhra pradesh__citrus fruit": {
+    "mean_yield": 6.73,
+    "std_yield": 4.77,
+    "record_count": 24
+  },
+  "andhra pradesh__coriander": {
+    "mean_yield": 0.57,
+    "std_yield": 0.22,
+    "record_count": 112
+  },
+  "andhra pradesh__cotton(lint)": {
+    "mean_yield": 2.1,
+    "std_yield": 0.98,
+    "record_count": 245
+  },
+  "andhra pradesh__cowpea(lobia)": {
+    "mean_yield": 0.63,
+    "std_yield": 0.31,
+    "record_count": 65
+  },
+  "andhra pradesh__cucumber": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 24
+  },
+  "andhra pradesh__dry chillies": {
+    "mean_yield": 2.93,
+    "std_yield": 1.29,
+    "record_count": 430
+  },
+  "andhra pradesh__dry ginger": {
+    "mean_yield": 3.93,
+    "std_yield": 2.59,
+    "record_count": 67
+  },
+  "andhra pradesh__ginger": {
+    "mean_yield": 8.03,
+    "std_yield": 2.99,
+    "record_count": 5
+  },
+  "andhra pradesh__gram": {
+    "mean_yield": 1.44,
+    "std_yield": 0.57,
+    "record_count": 207
+  },
+  "andhra pradesh__grapes": {
+    "mean_yield": 20.59,
+    "std_yield": 4.32,
+    "record_count": 17
+  },
+  "andhra pradesh__groundnut": {
+    "mean_yield": 1.58,
+    "std_yield": 0.82,
+    "record_count": 465
+  },
+  "andhra pradesh__horse-gram": {
+    "mean_yield": 0.47,
+    "std_yield": 0.15,
+    "record_count": 322
+  },
+  "andhra pradesh__jowar": {
+    "mean_yield": 1.65,
+    "std_yield": 1.35,
+    "record_count": 415
+  },
+  "andhra pradesh__korra": {
+    "mean_yield": 0.8,
+    "std_yield": 0.21,
+    "record_count": 56
+  },
+  "andhra pradesh__lemon": {
+    "mean_yield": 7.93,
+    "std_yield": 3.29,
+    "record_count": 39
+  },
+  "andhra pradesh__linseed": {
+    "mean_yield": 0.28,
+    "std_yield": 0.13,
+    "record_count": 39
+  },
+  "andhra pradesh__maize": {
+    "mean_yield": 4.83,
+    "std_yield": 2.35,
+    "record_count": 456
+  },
+  "andhra pradesh__mango": {
+    "mean_yield": 7.23,
+    "std_yield": 3.81,
+    "record_count": 65
+  },
+  "andhra pradesh__masoor": {
+    "mean_yield": 0.36,
+    "std_yield": 0.16,
+    "record_count": 19
+  },
+  "andhra pradesh__mesta": {
+    "mean_yield": 8.17,
+    "std_yield": 0.9,
+    "record_count": 86
+  },
+  "andhra pradesh__moong(green gram)": {
+    "mean_yield": 0.47,
+    "std_yield": 0.22,
+    "record_count": 445
+  },
+  "andhra pradesh__niger seed": {
+    "mean_yield": 0.42,
+    "std_yield": 0.11,
+    "record_count": 45
+  },
+  "andhra pradesh__onion": {
+    "mean_yield": 17.07,
+    "std_yield": 4.63,
+    "record_count": 346
+  },
+  "andhra pradesh__orange": {
+    "mean_yield": 15.17,
+    "std_yield": 3.23,
+    "record_count": 24
+  },
+  "andhra pradesh__other  rabi pulses": {
+    "mean_yield": 0.53,
+    "std_yield": 0.35,
+    "record_count": 68
+  },
+  "andhra pradesh__other fresh fruits": {
+    "mean_yield": 2.41,
+    "std_yield": 1.75,
+    "record_count": 26
+  },
+  "andhra pradesh__other kharif pulses": {
+    "mean_yield": 0.44,
+    "std_yield": 0.32,
+    "record_count": 89
+  },
+  "andhra pradesh__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 26
+  },
+  "andhra pradesh__pome fruit": {
+    "mean_yield": 22.94,
+    "std_yield": 21.76,
+    "record_count": 26
+  },
+  "andhra pradesh__pome granet": {
+    "mean_yield": 12.47,
+    "std_yield": 2.05,
+    "record_count": 21
+  },
+  "andhra pradesh__potato": {
+    "mean_yield": 11.99,
+    "std_yield": 3.91,
+    "record_count": 58
+  },
+  "andhra pradesh__ragi": {
+    "mean_yield": 1.38,
+    "std_yield": 0.42,
+    "record_count": 337
+  },
+  "andhra pradesh__rapeseed &mustard": {
+    "mean_yield": 0.69,
+    "std_yield": 0.85,
+    "record_count": 61
+  },
+  "andhra pradesh__rice": {
+    "mean_yield": 2.92,
+    "std_yield": 0.82,
+    "record_count": 481
+  },
+  "andhra pradesh__safflower": {
+    "mean_yield": 0.43,
+    "std_yield": 0.3,
+    "record_count": 54
+  },
+  "andhra pradesh__samai": {
+    "mean_yield": 0.5,
+    "std_yield": 0.21,
+    "record_count": 40
+  },
+  "andhra pradesh__sapota": {
+    "mean_yield": 10.27,
+    "std_yield": 2.54,
+    "record_count": 39
+  },
+  "andhra pradesh__sesamum": {
+    "mean_yield": 0.25,
+    "std_yield": 0.12,
+    "record_count": 411
+  },
+  "andhra pradesh__small millets": {
+    "mean_yield": 0.68,
+    "std_yield": 0.31,
+    "record_count": 195
+  },
+  "andhra pradesh__soyabean": {
+    "mean_yield": 1.37,
+    "std_yield": 0.62,
+    "record_count": 64
+  },
+  "andhra pradesh__sugarcane": {
+    "mean_yield": 56.44,
+    "std_yield": 7.75,
+    "record_count": 41
+  },
+  "andhra pradesh__sunflower": {
+    "mean_yield": 0.85,
+    "std_yield": 0.28,
+    "record_count": 260
+  },
+  "andhra pradesh__sweet potato": {
+    "mean_yield": 10.43,
+    "std_yield": 4.08,
+    "record_count": 187
+  },
+  "andhra pradesh__tapioca": {
+    "mean_yield": 9.17,
+    "std_yield": 4.39,
+    "record_count": 72
+  },
+  "andhra pradesh__tobacco": {
+    "mean_yield": 1.94,
+    "std_yield": 0.86,
+    "record_count": 242
+  },
+  "andhra pradesh__tomato": {
+    "mean_yield": 15.23,
+    "std_yield": 7.37,
+    "record_count": 104
+  },
+  "andhra pradesh__turmeric": {
+    "mean_yield": 7.03,
+    "std_yield": 2.99,
+    "record_count": 186
+  },
+  "andhra pradesh__urad": {
+    "mean_yield": 0.56,
+    "std_yield": 0.28,
+    "record_count": 441
+  },
+  "andhra pradesh__varagu": {
+    "mean_yield": 0.74,
+    "std_yield": 0.16,
+    "record_count": 13
+  },
+  "andhra pradesh__wheat": {
+    "mean_yield": 0.74,
+    "std_yield": 0.35,
+    "record_count": 58
+  },
+  "andhra pradesh__other misc. pulses": {
+    "mean_yield": 0.25,
+    "std_yield": 0.2,
+    "record_count": 11
+  },
+  "andhra pradesh__other oilseeds": {
+    "mean_yield": 11.82,
+    "std_yield": 10.48,
+    "record_count": 47
+  },
+  "arunachal pradesh__dry chillies": {
+    "mean_yield": 1.99,
+    "std_yield": 1.61,
+    "record_count": 248
+  },
+  "arunachal pradesh__dry ginger": {
+    "mean_yield": 6.21,
+    "std_yield": 2.84,
+    "record_count": 249
+  },
+  "arunachal pradesh__groundnut": {
+    "mean_yield": 0.81,
+    "std_yield": 0.26,
+    "record_count": 26
+  },
+  "arunachal pradesh__maize": {
+    "mean_yield": 1.51,
+    "std_yield": 0.39,
+    "record_count": 273
+  },
+  "arunachal pradesh__oilseeds total": {
+    "mean_yield": 1.06,
+    "std_yield": 0.32,
+    "record_count": 271
+  },
+  "arunachal pradesh__potato": {
+    "mean_yield": 7.19,
+    "std_yield": 2.11,
+    "record_count": 257
+  },
+  "arunachal pradesh__pulses total": {
+    "mean_yield": 1.06,
+    "std_yield": 0.3,
+    "record_count": 67
+  },
+  "arunachal pradesh__rapeseed &mustard": {
+    "mean_yield": 0.96,
+    "std_yield": 0.29,
+    "record_count": 26
+  },
+  "arunachal pradesh__rice": {
+    "mean_yield": 1.18,
+    "std_yield": 0.38,
+    "record_count": 273
+  },
+  "arunachal pradesh__sesamum": {
+    "mean_yield": 0.62,
+    "std_yield": 0.15,
+    "record_count": 20
+  },
+  "arunachal pradesh__small millets": {
+    "mean_yield": 0.96,
+    "std_yield": 0.23,
+    "record_count": 272
+  },
+  "arunachal pradesh__soyabean": {
+    "mean_yield": 1.46,
+    "std_yield": 0.61,
+    "record_count": 26
+  },
+  "arunachal pradesh__sugarcane": {
+    "mean_yield": 17.81,
+    "std_yield": 11.16,
+    "record_count": 168
+  },
+  "arunachal pradesh__sunflower": {
+    "mean_yield": 0.48,
+    "std_yield": 0.15,
+    "record_count": 26
+  },
+  "arunachal pradesh__turmeric": {
+    "mean_yield": 4.41,
+    "std_yield": 2.59,
+    "record_count": 140
+  },
+  "arunachal pradesh__wheat": {
+    "mean_yield": 1.58,
+    "std_yield": 0.46,
+    "record_count": 203
+  },
+  "assam__arecanut": {
+    "mean_yield": 0.93,
+    "std_yield": 1.0,
+    "record_count": 400
+  },
+  "assam__arhar/tur": {
+    "mean_yield": 0.75,
+    "std_yield": 0.13,
+    "record_count": 454
+  },
+  "assam__banana": {
+    "mean_yield": 14.27,
+    "std_yield": 1.67,
+    "record_count": 462
+  },
+  "assam__black pepper": {
+    "mean_yield": 1.64,
+    "std_yield": 0.28,
+    "record_count": 215
+  },
+  "assam__blackgram": {
+    "mean_yield": 0.6,
+    "std_yield": 0.12,
+    "record_count": 27
+  },
+  "assam__castor seed": {
+    "mean_yield": 0.46,
+    "std_yield": 0.15,
+    "record_count": 397
+  },
+  "assam__cotton(lint)": {
+    "mean_yield": 0.48,
+    "std_yield": 0.16,
+    "record_count": 423
+  },
+  "assam__dry chillies": {
+    "mean_yield": 0.66,
+    "std_yield": 0.13,
+    "record_count": 453
+  },
+  "assam__dry ginger": {
+    "mean_yield": 6.94,
+    "std_yield": 1.01,
+    "record_count": 108
+  },
+  "assam__ginger": {
+    "mean_yield": 7.87,
+    "std_yield": 1.18,
+    "record_count": 108
+  },
+  "assam__gram": {
+    "mean_yield": 0.52,
+    "std_yield": 0.2,
+    "record_count": 438
+  },
+  "assam__jute": {
+    "mean_yield": 9.7,
+    "std_yield": 1.99,
+    "record_count": 454
+  },
+  "assam__linseed": {
+    "mean_yield": 0.52,
+    "std_yield": 0.13,
+    "record_count": 415
+  },
+  "assam__maize": {
+    "mean_yield": 0.96,
+    "std_yield": 0.95,
+    "record_count": 429
+  },
+  "assam__masoor": {
+    "mean_yield": 0.55,
+    "std_yield": 0.17,
+    "record_count": 338
+  },
+  "assam__mesta": {
+    "mean_yield": 4.91,
+    "std_yield": 1.44,
+    "record_count": 407
+  },
+  "assam__moong(green gram)": {
+    "mean_yield": 0.49,
+    "std_yield": 0.12,
+    "record_count": 362
+  },
+  "assam__niger seed": {
+    "mean_yield": 0.55,
+    "std_yield": 0.15,
+    "record_count": 377
+  },
+  "assam__onion": {
+    "mean_yield": 2.57,
+    "std_yield": 0.87,
+    "record_count": 454
+  },
+  "assam__orange": {
+    "mean_yield": 10.78,
+    "std_yield": 2.06,
+    "record_count": 150
+  },
+  "assam__other  rabi pulses": {
+    "mean_yield": 0.52,
+    "std_yield": 0.1,
+    "record_count": 231
+  },
+  "assam__paddy": {
+    "mean_yield": 1.9,
+    "std_yield": 0.66,
+    "record_count": 295
+  },
+  "assam__papaya": {
+    "mean_yield": 18.41,
+    "std_yield": 4.44,
+    "record_count": 154
+  },
+  "assam__peas & beans (pulses)": {
+    "mean_yield": 0.65,
+    "std_yield": 0.23,
+    "record_count": 362
+  },
+  "assam__pineapple": {
+    "mean_yield": 15.69,
+    "std_yield": 1.92,
+    "record_count": 154
+  },
+  "assam__potato": {
+    "mean_yield": 7.1,
+    "std_yield": 2.22,
+    "record_count": 454
+  },
+  "assam__rapeseed &mustard": {
+    "mean_yield": 0.52,
+    "std_yield": 0.13,
+    "record_count": 454
+  },
+  "assam__rice": {
+    "mean_yield": 1.59,
+    "std_yield": 0.63,
+    "record_count": 1356
+  },
+  "assam__sesamum": {
+    "mean_yield": 0.53,
+    "std_yield": 0.13,
+    "record_count": 454
+  },
+  "assam__small millets": {
+    "mean_yield": 0.54,
+    "std_yield": 0.32,
+    "record_count": 433
+  },
+  "assam__sugarcane": {
+    "mean_yield": 37.63,
+    "std_yield": 4.92,
+    "record_count": 453
+  },
+  "assam__sweet potato": {
+    "mean_yield": 3.73,
+    "std_yield": 1.47,
+    "record_count": 454
+  },
+  "assam__tapioca": {
+    "mean_yield": 5.43,
+    "std_yield": 2.12,
+    "record_count": 419
+  },
+  "assam__tobacco": {
+    "mean_yield": 0.59,
+    "std_yield": 0.2,
+    "record_count": 400
+  },
+  "assam__turmeric": {
+    "mean_yield": 0.76,
+    "std_yield": 0.3,
+    "record_count": 454
+  },
+  "assam__urad": {
+    "mean_yield": 0.55,
+    "std_yield": 0.11,
+    "record_count": 362
+  },
+  "assam__wheat": {
+    "mean_yield": 1.15,
+    "std_yield": 0.27,
+    "record_count": 439
+  },
+  "assam__other misc. pulses": {
+    "mean_yield": 0.52,
+    "std_yield": 0.19,
+    "record_count": 22
+  },
+  "bihar__arhar/tur": {
+    "mean_yield": 1.39,
+    "std_yield": 0.52,
+    "record_count": 668
+  },
+  "bihar__bajra": {
+    "mean_yield": 0.93,
+    "std_yield": 0.24,
+    "record_count": 190
+  },
+  "bihar__banana": {
+    "mean_yield": 16.82,
+    "std_yield": 11.11,
+    "record_count": 221
+  },
+  "bihar__barley": {
+    "mean_yield": 1.19,
+    "std_yield": 0.44,
+    "record_count": 572
+  },
+  "bihar__blackgram": {
+    "mean_yield": 0.75,
+    "std_yield": 0.08,
+    "record_count": 31
+  },
+  "bihar__castor seed": {
+    "mean_yield": 0.93,
+    "std_yield": 0.09,
+    "record_count": 76
+  },
+  "bihar__coriander": {
+    "mean_yield": 0.63,
+    "std_yield": 0.13,
+    "record_count": 309
+  },
+  "bihar__dry chillies": {
+    "mean_yield": 0.94,
+    "std_yield": 0.37,
+    "record_count": 340
+  },
+  "bihar__dry ginger": {
+    "mean_yield": 1.43,
+    "std_yield": 0.26,
+    "record_count": 164
+  },
+  "bihar__garlic": {
+    "mean_yield": 1.44,
+    "std_yield": 0.2,
+    "record_count": 341
+  },
+  "bihar__gram": {
+    "mean_yield": 0.99,
+    "std_yield": 0.36,
+    "record_count": 599
+  },
+  "bihar__groundnut": {
+    "mean_yield": 0.8,
+    "std_yield": 0.33,
+    "record_count": 130
+  },
+  "bihar__horse-gram": {
+    "mean_yield": 0.86,
+    "std_yield": 0.13,
+    "record_count": 280
+  },
+  "bihar__jowar": {
+    "mean_yield": 1.09,
+    "std_yield": 0.24,
+    "record_count": 203
+  },
+  "bihar__jute": {
+    "mean_yield": 8.95,
+    "std_yield": 3.48,
+    "record_count": 244
+  },
+  "bihar__khesari": {
+    "mean_yield": 0.86,
+    "std_yield": 0.28,
+    "record_count": 583
+  },
+  "bihar__linseed": {
+    "mean_yield": 0.78,
+    "std_yield": 0.12,
+    "record_count": 659
+  },
+  "bihar__maize": {
+    "mean_yield": 2.72,
+    "std_yield": 1.28,
+    "record_count": 1962
+  },
+  "bihar__masoor": {
+    "mean_yield": 0.83,
+    "std_yield": 0.33,
+    "record_count": 603
+  },
+  "bihar__mesta": {
+    "mean_yield": 8.12,
+    "std_yield": 4.61,
+    "record_count": 368
+  },
+  "bihar__moong(green gram)": {
+    "mean_yield": 0.61,
+    "std_yield": 0.19,
+    "record_count": 1044
+  },
+  "bihar__niger seed": {
+    "mean_yield": 0.62,
+    "std_yield": 0.01,
+    "record_count": 5
+  },
+  "bihar__onion": {
+    "mean_yield": 9.0,
+    "std_yield": 2.77,
+    "record_count": 406
+  },
+  "bihar__other  rabi pulses": {
+    "mean_yield": 0.8,
+    "std_yield": 0.17,
+    "record_count": 365
+  },
+  "bihar__other kharif pulses": {
+    "mean_yield": 0.67,
+    "std_yield": 0.29,
+    "record_count": 364
+  },
+  "bihar__peas & beans (pulses)": {
+    "mean_yield": 0.97,
+    "std_yield": 0.12,
+    "record_count": 589
+  },
+  "bihar__potato": {
+    "mean_yield": 8.93,
+    "std_yield": 2.68,
+    "record_count": 449
+  },
+  "bihar__ragi": {
+    "mean_yield": 0.94,
+    "std_yield": 0.37,
+    "record_count": 519
+  },
+  "bihar__rapeseed &mustard": {
+    "mean_yield": 0.97,
+    "std_yield": 0.41,
+    "record_count": 674
+  },
+  "bihar__rice": {
+    "mean_yield": 1.47,
+    "std_yield": 0.65,
+    "record_count": 1601
+  },
+  "bihar__safflower": {
+    "mean_yield": 0.76,
+    "std_yield": 0.16,
+    "record_count": 130
+  },
+  "bihar__sannhamp": {
+    "mean_yield": 1.46,
+    "std_yield": 3.36,
+    "record_count": 310
+  },
+  "bihar__sesamum": {
+    "mean_yield": 0.75,
+    "std_yield": 0.15,
+    "record_count": 478
+  },
+  "bihar__small millets": {
+    "mean_yield": 0.78,
+    "std_yield": 0.5,
+    "record_count": 384
+  },
+  "bihar__sugarcane": {
+    "mean_yield": 41.4,
+    "std_yield": 11.21,
+    "record_count": 517
+  },
+  "bihar__sunflower": {
+    "mean_yield": 1.28,
+    "std_yield": 0.27,
+    "record_count": 482
+  },
+  "bihar__sweet potato": {
+    "mean_yield": 13.01,
+    "std_yield": 2.54,
+    "record_count": 336
+  },
+  "bihar__tobacco": {
+    "mean_yield": 1.35,
+    "std_yield": 0.44,
+    "record_count": 211
+  },
+  "bihar__turmeric": {
+    "mean_yield": 1.07,
+    "std_yield": 0.26,
+    "record_count": 242
+  },
+  "bihar__urad": {
+    "mean_yield": 0.81,
+    "std_yield": 0.12,
+    "record_count": 512
+  },
+  "bihar__wheat": {
+    "mean_yield": 2.08,
+    "std_yield": 0.63,
+    "record_count": 677
+  },
+  "chandigarh__maize": {
+    "mean_yield": 2.26,
+    "std_yield": 0.41,
+    "record_count": 13
+  },
+  "chandigarh__onion": {
+    "mean_yield": 18.63,
+    "std_yield": 4.67,
+    "record_count": 13
+  },
+  "chandigarh__potato": {
+    "mean_yield": 21.11,
+    "std_yield": 3.57,
+    "record_count": 13
+  },
+  "chandigarh__rapeseed &mustard": {
+    "mean_yield": 1.39,
+    "std_yield": 0.32,
+    "record_count": 5
+  },
+  "chandigarh__rice": {
+    "mean_yield": 4.7,
+    "std_yield": 0.76,
+    "record_count": 13
+  },
+  "chandigarh__urad": {
+    "mean_yield": 0.89,
+    "std_yield": 0.1,
+    "record_count": 5
+  },
+  "chandigarh__wheat": {
+    "mean_yield": 4.52,
+    "std_yield": 0.18,
+    "record_count": 13
+  },
+  "chhattisgarh__arhar/tur": {
+    "mean_yield": 0.5,
+    "std_yield": 0.12,
+    "record_count": 292
+  },
+  "chhattisgarh__bajra": {
+    "mean_yield": 0.53,
+    "std_yield": 0.23,
+    "record_count": 80
+  },
+  "chhattisgarh__banana": {
+    "mean_yield": 35.49,
+    "std_yield": 9.85,
+    "record_count": 239
+  },
+  "chhattisgarh__barley": {
+    "mean_yield": 0.86,
+    "std_yield": 0.31,
+    "record_count": 118
+  },
+  "chhattisgarh__castor seed": {
+    "mean_yield": 0.39,
+    "std_yield": 0.51,
+    "record_count": 88
+  },
+  "chhattisgarh__coriander": {
+    "mean_yield": 0.3,
+    "std_yield": 0.25,
+    "record_count": 278
+  },
+  "chhattisgarh__cotton(lint)": {
+    "mean_yield": 1.31,
+    "std_yield": 0.72,
+    "record_count": 49
+  },
+  "chhattisgarh__dry chillies": {
+    "mean_yield": 0.62,
+    "std_yield": 0.25,
+    "record_count": 292
+  },
+  "chhattisgarh__dry ginger": {
+    "mean_yield": 1.19,
+    "std_yield": 0.6,
+    "record_count": 245
+  },
+  "chhattisgarh__garlic": {
+    "mean_yield": 2.92,
+    "std_yield": 0.47,
+    "record_count": 217
+  },
+  "chhattisgarh__gram": {
+    "mean_yield": 0.86,
+    "std_yield": 0.23,
+    "record_count": 283
+  },
+  "chhattisgarh__groundnut": {
+    "mean_yield": 1.31,
+    "std_yield": 0.54,
+    "record_count": 261
+  },
+  "chhattisgarh__horse-gram": {
+    "mean_yield": 0.32,
+    "std_yield": 0.18,
+    "record_count": 408
+  },
+  "chhattisgarh__jowar": {
+    "mean_yield": 0.92,
+    "std_yield": 0.34,
+    "record_count": 272
+  },
+  "chhattisgarh__khesari": {
+    "mean_yield": 0.57,
+    "std_yield": 0.24,
+    "record_count": 255
+  },
+  "chhattisgarh__linseed": {
+    "mean_yield": 0.33,
+    "std_yield": 0.09,
+    "record_count": 264
+  },
+  "chhattisgarh__maize": {
+    "mean_yield": 1.47,
+    "std_yield": 0.46,
+    "record_count": 294
+  },
+  "chhattisgarh__masoor": {
+    "mean_yield": 0.32,
+    "std_yield": 0.11,
+    "record_count": 254
+  },
+  "chhattisgarh__mesta": {
+    "mean_yield": 2.05,
+    "std_yield": 0.37,
+    "record_count": 236
+  },
+  "chhattisgarh__moong(green gram)": {
+    "mean_yield": 0.26,
+    "std_yield": 0.08,
+    "record_count": 527
+  },
+  "chhattisgarh__niger seed": {
+    "mean_yield": 0.24,
+    "std_yield": 0.57,
+    "record_count": 212
+  },
+  "chhattisgarh__onion": {
+    "mean_yield": 6.28,
+    "std_yield": 3.45,
+    "record_count": 267
+  },
+  "chhattisgarh__other  rabi pulses": {
+    "mean_yield": 0.44,
+    "std_yield": 0.58,
+    "record_count": 219
+  },
+  "chhattisgarh__other kharif pulses": {
+    "mean_yield": 0.3,
+    "std_yield": 0.19,
+    "record_count": 268
+  },
+  "chhattisgarh__papaya": {
+    "mean_yield": 37.83,
+    "std_yield": 6.43,
+    "record_count": 15
+  },
+  "chhattisgarh__peas & beans (pulses)": {
+    "mean_yield": 0.34,
+    "std_yield": 0.06,
+    "record_count": 268
+  },
+  "chhattisgarh__potato": {
+    "mean_yield": 5.99,
+    "std_yield": 1.51,
+    "record_count": 335
+  },
+  "chhattisgarh__ragi": {
+    "mean_yield": 0.28,
+    "std_yield": 0.33,
+    "record_count": 173
+  },
+  "chhattisgarh__rapeseed &mustard": {
+    "mean_yield": 0.41,
+    "std_yield": 0.1,
+    "record_count": 292
+  },
+  "chhattisgarh__rice": {
+    "mean_yield": 1.43,
+    "std_yield": 0.49,
+    "record_count": 292
+  },
+  "chhattisgarh__safflower": {
+    "mean_yield": 0.29,
+    "std_yield": 0.18,
+    "record_count": 135
+  },
+  "chhattisgarh__sannhamp": {
+    "mean_yield": 0.49,
+    "std_yield": 0.58,
+    "record_count": 250
+  },
+  "chhattisgarh__sesamum": {
+    "mean_yield": 0.32,
+    "std_yield": 0.09,
+    "record_count": 292
+  },
+  "chhattisgarh__small millets": {
+    "mean_yield": 0.27,
+    "std_yield": 0.95,
+    "record_count": 294
+  },
+  "chhattisgarh__soyabean": {
+    "mean_yield": 1.0,
+    "std_yield": 0.34,
+    "record_count": 237
+  },
+  "chhattisgarh__sugarcane": {
+    "mean_yield": 3.88,
+    "std_yield": 3.74,
+    "record_count": 260
+  },
+  "chhattisgarh__sunflower": {
+    "mean_yield": 0.43,
+    "std_yield": 0.23,
+    "record_count": 211
+  },
+  "chhattisgarh__sweet potato": {
+    "mean_yield": 5.57,
+    "std_yield": 0.78,
+    "record_count": 286
+  },
+  "chhattisgarh__tobacco": {
+    "mean_yield": 0.69,
+    "std_yield": 0.51,
+    "record_count": 56
+  },
+  "chhattisgarh__turmeric": {
+    "mean_yield": 1.03,
+    "std_yield": 0.42,
+    "record_count": 256
+  },
+  "chhattisgarh__urad": {
+    "mean_yield": 0.29,
+    "std_yield": 0.09,
+    "record_count": 502
+  },
+  "chhattisgarh__wheat": {
+    "mean_yield": 1.34,
+    "std_yield": 0.42,
+    "record_count": 282
+  },
+  "dadra and nagar haveli__arhar/tur": {
+    "mean_yield": 0.9,
+    "std_yield": 0.16,
+    "record_count": 18
+  },
+  "dadra and nagar haveli__banana": {
+    "mean_yield": 14.38,
+    "std_yield": 8.74,
+    "record_count": 9
+  },
+  "dadra and nagar haveli__gram": {
+    "mean_yield": 0.89,
+    "std_yield": 0.2,
+    "record_count": 16
+  },
+  "dadra and nagar haveli__groundnut": {
+    "mean_yield": 1.12,
+    "std_yield": 0.49,
+    "record_count": 9
+  },
+  "dadra and nagar haveli__jowar": {
+    "mean_yield": 0.93,
+    "std_yield": 0.17,
+    "record_count": 17
+  },
+  "dadra and nagar haveli__maize": {
+    "mean_yield": 0.99,
+    "std_yield": 0.11,
+    "record_count": 17
+  },
+  "dadra and nagar haveli__niger seed": {
+    "mean_yield": 1.14,
+    "std_yield": 0.74,
+    "record_count": 17
+  },
+  "dadra and nagar haveli__other  rabi pulses": {
+    "mean_yield": 0.92,
+    "std_yield": 0.14,
+    "record_count": 15
+  },
+  "dadra and nagar haveli__other kharif pulses": {
+    "mean_yield": 0.94,
+    "std_yield": 0.13,
+    "record_count": 8
+  },
+  "dadra and nagar haveli__ragi": {
+    "mean_yield": 1.29,
+    "std_yield": 0.3,
+    "record_count": 17
+  },
+  "dadra and nagar haveli__rapeseed &mustard": {
+    "mean_yield": 1.0,
+    "std_yield": 0.0,
+    "record_count": 5
+  },
+  "dadra and nagar haveli__rice": {
+    "mean_yield": 1.98,
+    "std_yield": 0.33,
+    "record_count": 31
+  },
+  "dadra and nagar haveli__sannhamp": {
+    "mean_yield": 0.62,
+    "std_yield": 0.06,
+    "record_count": 13
+  },
+  "dadra and nagar haveli__sesamum": {
+    "mean_yield": 0.93,
+    "std_yield": 0.17,
+    "record_count": 6
+  },
+  "dadra and nagar haveli__small millets": {
+    "mean_yield": 0.95,
+    "std_yield": 0.19,
+    "record_count": 17
+  },
+  "dadra and nagar haveli__urad": {
+    "mean_yield": 0.92,
+    "std_yield": 0.21,
+    "record_count": 7
+  },
+  "dadra and nagar haveli__wheat": {
+    "mean_yield": 1.93,
+    "std_yield": 0.18,
+    "record_count": 17
+  },
+  "goa__black pepper": {
+    "mean_yield": 0.27,
+    "std_yield": 0.06,
+    "record_count": 12
+  },
+  "goa__cashewnut": {
+    "mean_yield": 0.45,
+    "std_yield": 0.03,
+    "record_count": 12
+  },
+  "goa__groundnut": {
+    "mean_yield": 2.1,
+    "std_yield": 0.49,
+    "record_count": 31
+  },
+  "goa__other  rabi pulses": {
+    "mean_yield": 0.98,
+    "std_yield": 0.18,
+    "record_count": 16
+  },
+  "goa__other kharif pulses": {
+    "mean_yield": 0.66,
+    "std_yield": 0.24,
+    "record_count": 16
+  },
+  "goa__ragi": {
+    "mean_yield": 0.97,
+    "std_yield": 0.17,
+    "record_count": 24
+  },
+  "goa__rice": {
+    "mean_yield": 2.63,
+    "std_yield": 0.32,
+    "record_count": 38
+  },
+  "goa__sugarcane": {
+    "mean_yield": 51.42,
+    "std_yield": 8.29,
+    "record_count": 22
+  },
+  "gujarat__arhar/tur": {
+    "mean_yield": 0.9,
+    "std_yield": 0.26,
+    "record_count": 340
+  },
+  "gujarat__bajra": {
+    "mean_yield": 1.67,
+    "std_yield": 0.73,
+    "record_count": 599
+  },
+  "gujarat__banana": {
+    "mean_yield": 54.58,
+    "std_yield": 12.52,
+    "record_count": 102
+  },
+  "gujarat__castor seed": {
+    "mean_yield": 1.91,
+    "std_yield": 0.58,
+    "record_count": 327
+  },
+  "gujarat__cotton(lint)": {
+    "mean_yield": 2.66,
+    "std_yield": 1.31,
+    "record_count": 327
+  },
+  "gujarat__dry chillies": {
+    "mean_yield": 0.95,
+    "std_yield": 0.26,
+    "record_count": 288
+  },
+  "gujarat__garlic": {
+    "mean_yield": 5.55,
+    "std_yield": 1.76,
+    "record_count": 224
+  },
+  "gujarat__gram": {
+    "mean_yield": 0.89,
+    "std_yield": 0.34,
+    "record_count": 351
+  },
+  "gujarat__groundnut": {
+    "mean_yield": 1.52,
+    "std_yield": 1.9,
+    "record_count": 683
+  },
+  "gujarat__guar seed": {
+    "mean_yield": 0.83,
+    "std_yield": 3.21,
+    "record_count": 152
+  },
+  "gujarat__jowar": {
+    "mean_yield": 1.0,
+    "std_yield": 0.35,
+    "record_count": 474
+  },
+  "gujarat__maize": {
+    "mean_yield": 1.51,
+    "std_yield": 0.5,
+    "record_count": 316
+  },
+  "gujarat__moong(green gram)": {
+    "mean_yield": 0.48,
+    "std_yield": 0.17,
+    "record_count": 422
+  },
+  "gujarat__moth": {
+    "mean_yield": 0.47,
+    "std_yield": 0.25,
+    "record_count": 226
+  },
+  "gujarat__oilseeds total": {
+    "mean_yield": 1.34,
+    "std_yield": 0.32,
+    "record_count": 19
+  },
+  "gujarat__onion": {
+    "mean_yield": 26.69,
+    "std_yield": 6.05,
+    "record_count": 306
+  },
+  "gujarat__other  rabi pulses": {
+    "mean_yield": 0.69,
+    "std_yield": 0.24,
+    "record_count": 148
+  },
+  "gujarat__other cereals & millets": {
+    "mean_yield": 0.9,
+    "std_yield": 0.56,
+    "record_count": 224
+  },
+  "gujarat__other kharif pulses": {
+    "mean_yield": 0.53,
+    "std_yield": 0.21,
+    "record_count": 278
+  },
+  "gujarat__potato": {
+    "mean_yield": 22.09,
+    "std_yield": 4.17,
+    "record_count": 167
+  },
+  "gujarat__pulses total": {
+    "mean_yield": 0.35,
+    "std_yield": 0.38,
+    "record_count": 38
+  },
+  "gujarat__ragi": {
+    "mean_yield": 0.94,
+    "std_yield": 0.18,
+    "record_count": 61
+  },
+  "gujarat__rapeseed &mustard": {
+    "mean_yield": 1.35,
+    "std_yield": 0.32,
+    "record_count": 297
+  },
+  "gujarat__rice": {
+    "mean_yield": 2.08,
+    "std_yield": 0.89,
+    "record_count": 343
+  },
+  "gujarat__sesamum": {
+    "mean_yield": 1.61,
+    "std_yield": 7.35,
+    "record_count": 347
+  },
+  "gujarat__small millets": {
+    "mean_yield": 0.37,
+    "std_yield": 0.2,
+    "record_count": 83
+  },
+  "gujarat__soyabean": {
+    "mean_yield": 0.8,
+    "std_yield": 0.15,
+    "record_count": 25
+  },
+  "gujarat__sugarcane": {
+    "mean_yield": 50.46,
+    "std_yield": 19.12,
+    "record_count": 89
+  },
+  "gujarat__tobacco": {
+    "mean_yield": 1.65,
+    "std_yield": 0.39,
+    "record_count": 144
+  },
+  "gujarat__urad": {
+    "mean_yield": 0.61,
+    "std_yield": 0.22,
+    "record_count": 366
+  },
+  "gujarat__wheat": {
+    "mean_yield": 2.61,
+    "std_yield": 0.62,
+    "record_count": 366
+  },
+  "gujarat__other oilseeds": {
+    "mean_yield": 0.41,
+    "std_yield": 0.09,
+    "record_count": 38
+  },
+  "haryana__arhar/tur": {
+    "mean_yield": 1.03,
+    "std_yield": 0.56,
+    "record_count": 230
+  },
+  "haryana__bajra": {
+    "mean_yield": 1.63,
+    "std_yield": 0.8,
+    "record_count": 290
+  },
+  "haryana__banana": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 8
+  },
+  "haryana__barley": {
+    "mean_yield": 2.64,
+    "std_yield": 1.47,
+    "record_count": 225
+  },
+  "haryana__castor seed": {
+    "mean_yield": 0.76,
+    "std_yield": 0.43,
+    "record_count": 25
+  },
+  "haryana__coriander": {
+    "mean_yield": 1.52,
+    "std_yield": 0.8,
+    "record_count": 10
+  },
+  "haryana__cotton(lint)": {
+    "mean_yield": 2.21,
+    "std_yield": 1.41,
+    "record_count": 204
+  },
+  "haryana__dry chillies": {
+    "mean_yield": 4.25,
+    "std_yield": 4.67,
+    "record_count": 161
+  },
+  "haryana__garlic": {
+    "mean_yield": 7.45,
+    "std_yield": 5.37,
+    "record_count": 57
+  },
+  "haryana__gram": {
+    "mean_yield": 0.85,
+    "std_yield": 0.62,
+    "record_count": 198
+  },
+  "haryana__groundnut": {
+    "mean_yield": 0.72,
+    "std_yield": 0.55,
+    "record_count": 126
+  },
+  "haryana__guar seed": {
+    "mean_yield": 0.65,
+    "std_yield": 0.07,
+    "record_count": 16
+  },
+  "haryana__horse-gram": {
+    "mean_yield": 0.24,
+    "std_yield": 0.22,
+    "record_count": 26
+  },
+  "haryana__jowar": {
+    "mean_yield": 0.33,
+    "std_yield": 0.31,
+    "record_count": 147
+  },
+  "haryana__maize": {
+    "mean_yield": 1.62,
+    "std_yield": 1.64,
+    "record_count": 148
+  },
+  "haryana__mango": {
+    "mean_yield": 2.87,
+    "std_yield": 3.48,
+    "record_count": 9
+  },
+  "haryana__masoor": {
+    "mean_yield": 0.95,
+    "std_yield": 0.7,
+    "record_count": 159
+  },
+  "haryana__moong(green gram)": {
+    "mean_yield": 0.29,
+    "std_yield": 0.27,
+    "record_count": 159
+  },
+  "haryana__moth": {
+    "mean_yield": 0.17,
+    "std_yield": 0.2,
+    "record_count": 66
+  },
+  "haryana__onion": {
+    "mean_yield": 19.46,
+    "std_yield": 6.35,
+    "record_count": 193
+  },
+  "haryana__other  rabi pulses": {
+    "mean_yield": 0.89,
+    "std_yield": 0.33,
+    "record_count": 13
+  },
+  "haryana__other fresh fruits": {
+    "mean_yield": 6.09,
+    "std_yield": 5.34,
+    "record_count": 32
+  },
+  "haryana__other kharif pulses": {
+    "mean_yield": 0.59,
+    "std_yield": 0.39,
+    "record_count": 27
+  },
+  "haryana__other vegetables": {
+    "mean_yield": 8.01,
+    "std_yield": 4.59,
+    "record_count": 38
+  },
+  "haryana__peas & beans (pulses)": {
+    "mean_yield": 1.04,
+    "std_yield": 0.81,
+    "record_count": 122
+  },
+  "haryana__potato": {
+    "mean_yield": 19.99,
+    "std_yield": 5.48,
+    "record_count": 214
+  },
+  "haryana__rapeseed &mustard": {
+    "mean_yield": 1.41,
+    "std_yield": 0.45,
+    "record_count": 272
+  },
+  "haryana__rice": {
+    "mean_yield": 2.73,
+    "std_yield": 0.76,
+    "record_count": 300
+  },
+  "haryana__sannhamp": {
+    "mean_yield": 0.21,
+    "std_yield": 0.4,
+    "record_count": 53
+  },
+  "haryana__sesamum": {
+    "mean_yield": 0.33,
+    "std_yield": 0.53,
+    "record_count": 174
+  },
+  "haryana__sugarcane": {
+    "mean_yield": 44.83,
+    "std_yield": 21.11,
+    "record_count": 203
+  },
+  "haryana__sunflower": {
+    "mean_yield": 1.48,
+    "std_yield": 1.29,
+    "record_count": 72
+  },
+  "haryana__sweet potato": {
+    "mean_yield": 15.6,
+    "std_yield": 8.78,
+    "record_count": 53
+  },
+  "haryana__turmeric": {
+    "mean_yield": 1.61,
+    "std_yield": 3.32,
+    "record_count": 18
+  },
+  "haryana__urad": {
+    "mean_yield": 0.32,
+    "std_yield": 0.46,
+    "record_count": 111
+  },
+  "haryana__wheat": {
+    "mean_yield": 4.09,
+    "std_yield": 0.63,
+    "record_count": 317
+  },
+  "himachal pradesh__arhar/tur": {
+    "mean_yield": 0.33,
+    "std_yield": 0.24,
+    "record_count": 39
+  },
+  "himachal pradesh__bajra": {
+    "mean_yield": 0.68,
+    "std_yield": 0.79,
+    "record_count": 53
+  },
+  "himachal pradesh__barley": {
+    "mean_yield": 1.22,
+    "std_yield": 0.37,
+    "record_count": 134
+  },
+  "himachal pradesh__coriander": {
+    "mean_yield": 0.45,
+    "std_yield": 0.61,
+    "record_count": 52
+  },
+  "himachal pradesh__cotton(lint)": {
+    "mean_yield": 0.58,
+    "std_yield": 0.21,
+    "record_count": 25
+  },
+  "himachal pradesh__dry chillies": {
+    "mean_yield": 0.3,
+    "std_yield": 0.14,
+    "record_count": 81
+  },
+  "himachal pradesh__dry ginger": {
+    "mean_yield": 6.6,
+    "std_yield": 3.4,
+    "record_count": 68
+  },
+  "himachal pradesh__garlic": {
+    "mean_yield": 0.93,
+    "std_yield": 0.41,
+    "record_count": 79
+  },
+  "himachal pradesh__ginger": {
+    "mean_yield": 8.48,
+    "std_yield": 2.4,
+    "record_count": 9
+  },
+  "himachal pradesh__gram": {
+    "mean_yield": 0.69,
+    "std_yield": 0.34,
+    "record_count": 89
+  },
+  "himachal pradesh__groundnut": {
+    "mean_yield": 0.67,
+    "std_yield": 0.39,
+    "record_count": 54
+  },
+  "himachal pradesh__horse-gram": {
+    "mean_yield": 0.4,
+    "std_yield": 0.2,
+    "record_count": 100
+  },
+  "himachal pradesh__linseed": {
+    "mean_yield": 0.22,
+    "std_yield": 0.19,
+    "record_count": 35
+  },
+  "himachal pradesh__maize": {
+    "mean_yield": 2.23,
+    "std_yield": 0.51,
+    "record_count": 144
+  },
+  "himachal pradesh__masoor": {
+    "mean_yield": 0.52,
+    "std_yield": 0.35,
+    "record_count": 100
+  },
+  "himachal pradesh__moong(green gram)": {
+    "mean_yield": 0.4,
+    "std_yield": 0.17,
+    "record_count": 68
+  },
+  "himachal pradesh__moth": {
+    "mean_yield": 0.35,
+    "std_yield": 0.09,
+    "record_count": 10
+  },
+  "himachal pradesh__onion": {
+    "mean_yield": 7.21,
+    "std_yield": 2.92,
+    "record_count": 69
+  },
+  "himachal pradesh__other  rabi pulses": {
+    "mean_yield": 0.58,
+    "std_yield": 0.31,
+    "record_count": 22
+  },
+  "himachal pradesh__other kharif pulses": {
+    "mean_yield": 0.62,
+    "std_yield": 0.68,
+    "record_count": 71
+  },
+  "himachal pradesh__peas & beans (pulses)": {
+    "mean_yield": 1.51,
+    "std_yield": 1.42,
+    "record_count": 100
+  },
+  "himachal pradesh__potato": {
+    "mean_yield": 9.21,
+    "std_yield": 4.12,
+    "record_count": 145
+  },
+  "himachal pradesh__ragi": {
+    "mean_yield": 0.95,
+    "std_yield": 0.32,
+    "record_count": 37
+  },
+  "himachal pradesh__rapeseed &mustard": {
+    "mean_yield": 0.53,
+    "std_yield": 0.37,
+    "record_count": 111
+  },
+  "himachal pradesh__rice": {
+    "mean_yield": 1.54,
+    "std_yield": 0.4,
+    "record_count": 132
+  },
+  "himachal pradesh__sannhamp": {
+    "mean_yield": 0.53,
+    "std_yield": 0.37,
+    "record_count": 12
+  },
+  "himachal pradesh__sesamum": {
+    "mean_yield": 0.35,
+    "std_yield": 0.15,
+    "record_count": 90
+  },
+  "himachal pradesh__small millets": {
+    "mean_yield": 0.51,
+    "std_yield": 0.32,
+    "record_count": 79
+  },
+  "himachal pradesh__soyabean": {
+    "mean_yield": 1.5,
+    "std_yield": 1.28,
+    "record_count": 69
+  },
+  "himachal pradesh__sugarcane": {
+    "mean_yield": 8.65,
+    "std_yield": 8.2,
+    "record_count": 60
+  },
+  "himachal pradesh__tobacco": {
+    "mean_yield": 1.08,
+    "std_yield": 0.55,
+    "record_count": 7
+  },
+  "himachal pradesh__turmeric": {
+    "mean_yield": 0.54,
+    "std_yield": 0.16,
+    "record_count": 56
+  },
+  "himachal pradesh__urad": {
+    "mean_yield": 0.47,
+    "std_yield": 0.36,
+    "record_count": 109
+  },
+  "himachal pradesh__wheat": {
+    "mean_yield": 1.43,
+    "std_yield": 0.44,
+    "record_count": 144
+  },
+  "jammu and kashmir__bajra": {
+    "mean_yield": 0.58,
+    "std_yield": 0.08,
+    "record_count": 44
+  },
+  "jammu and kashmir__barley": {
+    "mean_yield": 0.65,
+    "std_yield": 0.4,
+    "record_count": 74
+  },
+  "jammu and kashmir__beans & mutter(vegetable)": {
+    "mean_yield": 0.8,
+    "std_yield": 0.63,
+    "record_count": 6
+  },
+  "jammu and kashmir__cond-spcs other": {
+    "mean_yield": 0.83,
+    "std_yield": 0.29,
+    "record_count": 18
+  },
+  "jammu and kashmir__cotton(lint)": {
+    "mean_yield": 0.46,
+    "std_yield": 0.11,
+    "record_count": 16
+  },
+  "jammu and kashmir__dry chillies": {
+    "mean_yield": 0.88,
+    "std_yield": 0.32,
+    "record_count": 35
+  },
+  "jammu and kashmir__dry ginger": {
+    "mean_yield": 1.34,
+    "std_yield": 0.25,
+    "record_count": 11
+  },
+  "jammu and kashmir__garlic": {
+    "mean_yield": 0.84,
+    "std_yield": 0.11,
+    "record_count": 37
+  },
+  "jammu and kashmir__gram": {
+    "mean_yield": 0.54,
+    "std_yield": 0.14,
+    "record_count": 25
+  },
+  "jammu and kashmir__groundnut": {
+    "mean_yield": 0.51,
+    "std_yield": 0.01,
+    "record_count": 7
+  },
+  "jammu and kashmir__horse-gram": {
+    "mean_yield": 0.37,
+    "std_yield": 0.12,
+    "record_count": 5
+  },
+  "jammu and kashmir__jowar": {
+    "mean_yield": 0.45,
+    "std_yield": 0.18,
+    "record_count": 8
+  },
+  "jammu and kashmir__linseed": {
+    "mean_yield": 0.57,
+    "std_yield": 0.33,
+    "record_count": 54
+  },
+  "jammu and kashmir__maize": {
+    "mean_yield": 1.36,
+    "std_yield": 0.65,
+    "record_count": 136
+  },
+  "jammu and kashmir__masoor": {
+    "mean_yield": 0.47,
+    "std_yield": 0.05,
+    "record_count": 26
+  },
+  "jammu and kashmir__moong(green gram)": {
+    "mean_yield": 0.54,
+    "std_yield": 0.25,
+    "record_count": 63
+  },
+  "jammu and kashmir__moth": {
+    "mean_yield": 0.63,
+    "std_yield": 0.11,
+    "record_count": 7
+  },
+  "jammu and kashmir__onion": {
+    "mean_yield": 1.84,
+    "std_yield": 0.76,
+    "record_count": 65
+  },
+  "jammu and kashmir__other  rabi pulses": {
+    "mean_yield": 0.76,
+    "std_yield": 1.27,
+    "record_count": 31
+  },
+  "jammu and kashmir__other cereals & millets": {
+    "mean_yield": 0.4,
+    "std_yield": 0.35,
+    "record_count": 20
+  },
+  "jammu and kashmir__other fresh fruits": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 24
+  },
+  "jammu and kashmir__other kharif pulses": {
+    "mean_yield": 0.69,
+    "std_yield": 0.75,
+    "record_count": 58
+  },
+  "jammu and kashmir__other vegetables": {
+    "mean_yield": 1.12,
+    "std_yield": 0.37,
+    "record_count": 27
+  },
+  "jammu and kashmir__peas & beans (pulses)": {
+    "mean_yield": 0.78,
+    "std_yield": 0.36,
+    "record_count": 95
+  },
+  "jammu and kashmir__potato": {
+    "mean_yield": 9.65,
+    "std_yield": 6.63,
+    "record_count": 115
+  },
+  "jammu and kashmir__rapeseed &mustard": {
+    "mean_yield": 0.68,
+    "std_yield": 0.49,
+    "record_count": 126
+  },
+  "jammu and kashmir__rice": {
+    "mean_yield": 1.53,
+    "std_yield": 0.75,
+    "record_count": 135
+  },
+  "jammu and kashmir__sannhamp": {
+    "mean_yield": 0.55,
+    "std_yield": 0.22,
+    "record_count": 28
+  },
+  "jammu and kashmir__sesamum": {
+    "mean_yield": 0.45,
+    "std_yield": 0.15,
+    "record_count": 37
+  },
+  "jammu and kashmir__small millets": {
+    "mean_yield": 0.91,
+    "std_yield": 1.46,
+    "record_count": 10
+  },
+  "jammu and kashmir__sugarcane": {
+    "mean_yield": 2.48,
+    "std_yield": 1.98,
+    "record_count": 26
+  },
+  "jammu and kashmir__tobacco": {
+    "mean_yield": 0.26,
+    "std_yield": 0.16,
+    "record_count": 16
+  },
+  "jammu and kashmir__turmeric": {
+    "mean_yield": 1.01,
+    "std_yield": 0.04,
+    "record_count": 11
+  },
+  "jammu and kashmir__turnip": {
+    "mean_yield": 0.6,
+    "std_yield": 0.18,
+    "record_count": 6
+  },
+  "jammu and kashmir__urad": {
+    "mean_yield": 0.46,
+    "std_yield": 0.13,
+    "record_count": 71
+  },
+  "jammu and kashmir__wheat": {
+    "mean_yield": 1.31,
+    "std_yield": 0.72,
+    "record_count": 135
+  },
+  "jammu and kashmir__other oilseeds": {
+    "mean_yield": 0.45,
+    "std_yield": 0.08,
+    "record_count": 16
+  },
+  "jharkhand__arhar/tur": {
+    "mean_yield": 1.44,
+    "std_yield": 0.35,
+    "record_count": 126
+  },
+  "jharkhand__gram": {
+    "mean_yield": 0.79,
+    "std_yield": 0.26,
+    "record_count": 131
+  },
+  "jharkhand__maize": {
+    "mean_yield": 1.31,
+    "std_yield": 0.55,
+    "record_count": 124
+  },
+  "jharkhand__masoor": {
+    "mean_yield": 0.64,
+    "std_yield": 0.35,
+    "record_count": 47
+  },
+  "jharkhand__onion": {
+    "mean_yield": 6.93,
+    "std_yield": 3.25,
+    "record_count": 77
+  },
+  "jharkhand__potato": {
+    "mean_yield": 7.33,
+    "std_yield": 2.53,
+    "record_count": 169
+  },
+  "jharkhand__ragi": {
+    "mean_yield": 0.84,
+    "std_yield": 0.33,
+    "record_count": 70
+  },
+  "jharkhand__rapeseed &mustard": {
+    "mean_yield": 0.77,
+    "std_yield": 0.27,
+    "record_count": 124
+  },
+  "jharkhand__rice": {
+    "mean_yield": 0.98,
+    "std_yield": 0.97,
+    "record_count": 227
+  },
+  "jharkhand__sugarcane": {
+    "mean_yield": 34.76,
+    "std_yield": 16.0,
+    "record_count": 16
+  },
+  "jharkhand__wheat": {
+    "mean_yield": 1.26,
+    "std_yield": 0.35,
+    "record_count": 150
+  },
+  "karnataka__arcanut (processed)": {
+    "mean_yield": 1.28,
+    "std_yield": 0.3,
+    "record_count": 20
+  },
+  "karnataka__arecanut": {
+    "mean_yield": 5.52,
+    "std_yield": 3.72,
+    "record_count": 329
+  },
+  "karnataka__arhar/tur": {
+    "mean_yield": 0.52,
+    "std_yield": 0.24,
+    "record_count": 448
+  },
+  "karnataka__atcanut (raw)": {
+    "mean_yield": 6.22,
+    "std_yield": 1.32,
+    "record_count": 20
+  },
+  "karnataka__bajra": {
+    "mean_yield": 0.74,
+    "std_yield": 0.3,
+    "record_count": 346
+  },
+  "karnataka__banana": {
+    "mean_yield": 19.37,
+    "std_yield": 10.61,
+    "record_count": 331
+  },
+  "karnataka__beans & mutter(vegetable)": {
+    "mean_yield": 6.44,
+    "std_yield": 2.25,
+    "record_count": 35
+  },
+  "karnataka__black pepper": {
+    "mean_yield": 2.54,
+    "std_yield": 1.44,
+    "record_count": 228
+  },
+  "karnataka__brinjal": {
+    "mean_yield": 6.87,
+    "std_yield": 2.32,
+    "record_count": 54
+  },
+  "karnataka__cardamom": {
+    "mean_yield": 0.08,
+    "std_yield": 0.03,
+    "record_count": 113
+  },
+  "karnataka__cashewnut": {
+    "mean_yield": 0.79,
+    "std_yield": 0.22,
+    "record_count": 154
+  },
+  "karnataka__cashewnut processed": {
+    "mean_yield": 0.1,
+    "std_yield": 0.05,
+    "record_count": 21
+  },
+  "karnataka__cashewnut raw": {
+    "mean_yield": 0.46,
+    "std_yield": 0.21,
+    "record_count": 21
+  },
+  "karnataka__castor seed": {
+    "mean_yield": 0.85,
+    "std_yield": 0.39,
+    "record_count": 373
+  },
+  "karnataka__citrus fruit": {
+    "mean_yield": 14.59,
+    "std_yield": 4.77,
+    "record_count": 52
+  },
+  "karnataka__coriander": {
+    "mean_yield": 0.25,
+    "std_yield": 0.16,
+    "record_count": 366
+  },
+  "karnataka__cotton(lint)": {
+    "mean_yield": 1.78,
+    "std_yield": 0.81,
+    "record_count": 449
+  },
+  "karnataka__cowpea(lobia)": {
+    "mean_yield": 0.41,
+    "std_yield": 0.2,
+    "record_count": 316
+  },
+  "karnataka__dry chillies": {
+    "mean_yield": 1.9,
+    "std_yield": 1.12,
+    "record_count": 949
+  },
+  "karnataka__dry ginger": {
+    "mean_yield": 16.98,
+    "std_yield": 9.92,
+    "record_count": 318
+  },
+  "karnataka__garlic": {
+    "mean_yield": 1.45,
+    "std_yield": 0.92,
+    "record_count": 253
+  },
+  "karnataka__gram": {
+    "mean_yield": 0.52,
+    "std_yield": 0.19,
+    "record_count": 461
+  },
+  "karnataka__grapes": {
+    "mean_yield": 28.95,
+    "std_yield": 4.22,
+    "record_count": 30
+  },
+  "karnataka__groundnut": {
+    "mean_yield": 0.87,
+    "std_yield": 0.36,
+    "record_count": 905
+  },
+  "karnataka__horse-gram": {
+    "mean_yield": 0.47,
+    "std_yield": 0.21,
+    "record_count": 907
+  },
+  "karnataka__jowar": {
+    "mean_yield": 1.23,
+    "std_yield": 0.63,
+    "record_count": 962
+  },
+  "karnataka__linseed": {
+    "mean_yield": 0.31,
+    "std_yield": 0.11,
+    "record_count": 229
+  },
+  "karnataka__maize": {
+    "mean_yield": 2.83,
+    "std_yield": 0.75,
+    "record_count": 1331
+  },
+  "karnataka__mango": {
+    "mean_yield": 4.44,
+    "std_yield": 2.62,
+    "record_count": 54
+  },
+  "karnataka__mesta": {
+    "mean_yield": 1.6,
+    "std_yield": 0.57,
+    "record_count": 91
+  },
+  "karnataka__moong(green gram)": {
+    "mean_yield": 0.25,
+    "std_yield": 0.13,
+    "record_count": 659
+  },
+  "karnataka__niger seed": {
+    "mean_yield": 0.25,
+    "std_yield": 0.07,
+    "record_count": 407
+  },
+  "karnataka__onion": {
+    "mean_yield": 7.27,
+    "std_yield": 3.27,
+    "record_count": 837
+  },
+  "karnataka__other  rabi pulses": {
+    "mean_yield": 0.28,
+    "std_yield": 0.23,
+    "record_count": 386
+  },
+  "karnataka__other fresh fruits": {
+    "mean_yield": 3.05,
+    "std_yield": 1.18,
+    "record_count": 54
+  },
+  "karnataka__other kharif pulses": {
+    "mean_yield": 0.56,
+    "std_yield": 0.44,
+    "record_count": 405
+  },
+  "karnataka__paddy": {
+    "mean_yield": 3.61,
+    "std_yield": 0.93,
+    "record_count": 51
+  },
+  "karnataka__papaya": {
+    "mean_yield": 2.42,
+    "std_yield": 0.65,
+    "record_count": 23
+  },
+  "karnataka__peas & beans (pulses)": {
+    "mean_yield": 7.52,
+    "std_yield": 2.11,
+    "record_count": 211
+  },
+  "karnataka__pome fruit": {
+    "mean_yield": 5.14,
+    "std_yield": 2.47,
+    "record_count": 52
+  },
+  "karnataka__potato": {
+    "mean_yield": 11.37,
+    "std_yield": 5.65,
+    "record_count": 447
+  },
+  "karnataka__ragi": {
+    "mean_yield": 1.55,
+    "std_yield": 0.52,
+    "record_count": 838
+  },
+  "karnataka__rapeseed &mustard": {
+    "mean_yield": 0.26,
+    "std_yield": 0.1,
+    "record_count": 287
+  },
+  "karnataka__rice": {
+    "mean_yield": 2.61,
+    "std_yield": 0.76,
+    "record_count": 1195
+  },
+  "karnataka__safflower": {
+    "mean_yield": 0.67,
+    "std_yield": 0.28,
+    "record_count": 252
+  },
+  "karnataka__sannhamp": {
+    "mean_yield": 0.25,
+    "std_yield": 0.12,
+    "record_count": 65
+  },
+  "karnataka__sesamum": {
+    "mean_yield": 0.5,
+    "std_yield": 0.24,
+    "record_count": 438
+  },
+  "karnataka__small millets": {
+    "mean_yield": 0.53,
+    "std_yield": 0.22,
+    "record_count": 306
+  },
+  "karnataka__soyabean": {
+    "mean_yield": 0.81,
+    "std_yield": 0.24,
+    "record_count": 189
+  },
+  "karnataka__sugarcane": {
+    "mean_yield": 58.32,
+    "std_yield": 9.31,
+    "record_count": 57
+  },
+  "karnataka__sunflower": {
+    "mean_yield": 0.63,
+    "std_yield": 0.35,
+    "record_count": 1149
+  },
+  "karnataka__sweet potato": {
+    "mean_yield": 9.0,
+    "std_yield": 4.08,
+    "record_count": 219
+  },
+  "karnataka__tapioca": {
+    "mean_yield": 9.77,
+    "std_yield": 3.18,
+    "record_count": 121
+  },
+  "karnataka__tobacco": {
+    "mean_yield": 0.7,
+    "std_yield": 0.21,
+    "record_count": 213
+  },
+  "karnataka__tomato": {
+    "mean_yield": 7.43,
+    "std_yield": 3.69,
+    "record_count": 50
+  },
+  "karnataka__turmeric": {
+    "mean_yield": 4.78,
+    "std_yield": 1.53,
+    "record_count": 361
+  },
+  "karnataka__urad": {
+    "mean_yield": 0.34,
+    "std_yield": 0.15,
+    "record_count": 549
+  },
+  "karnataka__wheat": {
+    "mean_yield": 0.89,
+    "std_yield": 0.39,
+    "record_count": 266
+  },
+  "kerala__arecanut": {
+    "mean_yield": 0.9,
+    "std_yield": 0.43,
+    "record_count": 252
+  },
+  "kerala__arhar/tur": {
+    "mean_yield": 1.42,
+    "std_yield": 0.34,
+    "record_count": 13
+  },
+  "kerala__banana": {
+    "mean_yield": 8.41,
+    "std_yield": 1.63,
+    "record_count": 238
+  },
+  "kerala__bhindi": {
+    "mean_yield": 0.01,
+    "std_yield": 0.06,
+    "record_count": 28
+  },
+  "kerala__bitter gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__black pepper": {
+    "mean_yield": 0.25,
+    "std_yield": 0.13,
+    "record_count": 252
+  },
+  "kerala__brinjal": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__cardamom": {
+    "mean_yield": 0.09,
+    "std_yield": 0.08,
+    "record_count": 105
+  },
+  "kerala__cashewnut": {
+    "mean_yield": 0.5,
+    "std_yield": 0.25,
+    "record_count": 252
+  },
+  "kerala__cashewnut raw": {
+    "mean_yield": 0.57,
+    "std_yield": 0.23,
+    "record_count": 14
+  },
+  "kerala__coffee": {
+    "mean_yield": 0.71,
+    "std_yield": 0.12,
+    "record_count": 6
+  },
+  "kerala__cotton(lint)": {
+    "mean_yield": 1.48,
+    "std_yield": 0.16,
+    "record_count": 12
+  },
+  "kerala__drum stick": {
+    "mean_yield": 0.99,
+    "std_yield": 0.43,
+    "record_count": 57
+  },
+  "kerala__dry chillies": {
+    "mean_yield": 0.95,
+    "std_yield": 0.08,
+    "record_count": 15
+  },
+  "kerala__dry ginger": {
+    "mean_yield": 3.22,
+    "std_yield": 1.03,
+    "record_count": 238
+  },
+  "kerala__garlic": {
+    "mean_yield": 15.36,
+    "std_yield": 3.39,
+    "record_count": 15
+  },
+  "kerala__groundnut": {
+    "mean_yield": 0.85,
+    "std_yield": 0.24,
+    "record_count": 18
+  },
+  "kerala__jack fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__jowar": {
+    "mean_yield": 0.64,
+    "std_yield": 0.2,
+    "record_count": 46
+  },
+  "kerala__maize": {
+    "mean_yield": 1.24,
+    "std_yield": 0.8,
+    "record_count": 6
+  },
+  "kerala__mango": {
+    "mean_yield": 5.22,
+    "std_yield": 1.87,
+    "record_count": 57
+  },
+  "kerala__other cereals & millets": {
+    "mean_yield": 0.91,
+    "std_yield": 0.27,
+    "record_count": 18
+  },
+  "kerala__other fresh fruits": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__papaya": {
+    "mean_yield": 5.44,
+    "std_yield": 2.17,
+    "record_count": 43
+  },
+  "kerala__pineapple": {
+    "mean_yield": 6.94,
+    "std_yield": 1.64,
+    "record_count": 43
+  },
+  "kerala__potato": {
+    "mean_yield": 13.16,
+    "std_yield": 3.75,
+    "record_count": 18
+  },
+  "kerala__ragi": {
+    "mean_yield": 0.84,
+    "std_yield": 0.13,
+    "record_count": 42
+  },
+  "kerala__rice": {
+    "mean_yield": 2.26,
+    "std_yield": 0.54,
+    "record_count": 694
+  },
+  "kerala__rubber": {
+    "mean_yield": 1.19,
+    "std_yield": 0.18,
+    "record_count": 28
+  },
+  "kerala__sesamum": {
+    "mean_yield": 0.36,
+    "std_yield": 0.21,
+    "record_count": 154
+  },
+  "kerala__small millets": {
+    "mean_yield": 0.76,
+    "std_yield": 0.27,
+    "record_count": 12
+  },
+  "kerala__snak guard": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 28
+  },
+  "kerala__sugarcane": {
+    "mean_yield": 32.64,
+    "std_yield": 21.49,
+    "record_count": 84
+  },
+  "kerala__sweet potato": {
+    "mean_yield": 11.98,
+    "std_yield": 3.46,
+    "record_count": 197
+  },
+  "kerala__tapioca": {
+    "mean_yield": 29.56,
+    "std_yield": 7.65,
+    "record_count": 252
+  },
+  "kerala__tea": {
+    "mean_yield": 1.23,
+    "std_yield": 1.19,
+    "record_count": 16
+  },
+  "kerala__tobacco": {
+    "mean_yield": 3.34,
+    "std_yield": 2.03,
+    "record_count": 16
+  },
+  "kerala__turmeric": {
+    "mean_yield": 2.2,
+    "std_yield": 0.63,
+    "record_count": 238
+  },
+  "kerala__other oilseeds": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 14
+  },
+  "madhya pradesh__arhar/tur": {
+    "mean_yield": 0.66,
+    "std_yield": 0.3,
+    "record_count": 803
+  },
+  "madhya pradesh__bajra": {
+    "mean_yield": 1.02,
+    "std_yield": 0.53,
+    "record_count": 533
+  },
+  "madhya pradesh__banana": {
+    "mean_yield": 27.61,
+    "std_yield": 16.5,
+    "record_count": 169
+  },
+  "madhya pradesh__barley": {
+    "mean_yield": 1.59,
+    "std_yield": 0.74,
+    "record_count": 607
+  },
+  "madhya pradesh__beans & mutter(vegetable)": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 45
+  },
+  "madhya pradesh__bhindi": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 91
+  },
+  "madhya pradesh__brinjal": {
+    "mean_yield": 0.0,
+    "std_yield": 0.02,
+    "record_count": 91
+  },
+  "madhya pradesh__cabbage": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 73
+  },
+  "madhya pradesh__castor seed": {
+    "mean_yield": 0.36,
+    "std_yield": 0.16,
+    "record_count": 243
+  },
+  "madhya pradesh__cauliflower": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 90
+  },
+  "madhya pradesh__citrus fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 77
+  },
+  "madhya pradesh__coriander": {
+    "mean_yield": 0.36,
+    "std_yield": 0.14,
+    "record_count": 641
+  },
+  "madhya pradesh__cotton(lint)": {
+    "mean_yield": 0.96,
+    "std_yield": 0.91,
+    "record_count": 314
+  },
+  "madhya pradesh__cowpea(lobia)": {
+    "mean_yield": 0.29,
+    "std_yield": 0.1,
+    "record_count": 92
+  },
+  "madhya pradesh__dry chillies": {
+    "mean_yield": 1.01,
+    "std_yield": 0.77,
+    "record_count": 523
+  },
+  "madhya pradesh__dry ginger": {
+    "mean_yield": 1.16,
+    "std_yield": 0.43,
+    "record_count": 485
+  },
+  "madhya pradesh__garlic": {
+    "mean_yield": 3.01,
+    "std_yield": 1.19,
+    "record_count": 672
+  },
+  "madhya pradesh__gram": {
+    "mean_yield": 0.89,
+    "std_yield": 0.34,
+    "record_count": 766
+  },
+  "madhya pradesh__grapes": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 12
+  },
+  "madhya pradesh__groundnut": {
+    "mean_yield": 1.09,
+    "std_yield": 0.37,
+    "record_count": 767
+  },
+  "madhya pradesh__horse-gram": {
+    "mean_yield": 0.3,
+    "std_yield": 0.11,
+    "record_count": 165
+  },
+  "madhya pradesh__jowar": {
+    "mean_yield": 1.23,
+    "std_yield": 0.57,
+    "record_count": 998
+  },
+  "madhya pradesh__jute": {
+    "mean_yield": 2.07,
+    "std_yield": 0.56,
+    "record_count": 40
+  },
+  "madhya pradesh__khesari": {
+    "mean_yield": 0.66,
+    "std_yield": 0.28,
+    "record_count": 230
+  },
+  "madhya pradesh__linseed": {
+    "mean_yield": 0.58,
+    "std_yield": 0.31,
+    "record_count": 750
+  },
+  "madhya pradesh__maize": {
+    "mean_yield": 1.44,
+    "std_yield": 0.63,
+    "record_count": 794
+  },
+  "madhya pradesh__mango": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 84
+  },
+  "madhya pradesh__masoor": {
+    "mean_yield": 0.48,
+    "std_yield": 0.18,
+    "record_count": 470
+  },
+  "madhya pradesh__mesta": {
+    "mean_yield": 1.48,
+    "std_yield": 0.92,
+    "record_count": 80
+  },
+  "madhya pradesh__moong(green gram)": {
+    "mean_yield": 0.33,
+    "std_yield": 0.14,
+    "record_count": 508
+  },
+  "madhya pradesh__niger seed": {
+    "mean_yield": 0.24,
+    "std_yield": 0.12,
+    "record_count": 346
+  },
+  "madhya pradesh__onion": {
+    "mean_yield": 14.31,
+    "std_yield": 7.92,
+    "record_count": 720
+  },
+  "madhya pradesh__orange": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 26
+  },
+  "madhya pradesh__other  rabi pulses": {
+    "mean_yield": 0.42,
+    "std_yield": 0.16,
+    "record_count": 307
+  },
+  "madhya pradesh__other citrus fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 15
+  },
+  "madhya pradesh__other fresh fruits": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 79
+  },
+  "madhya pradesh__other kharif pulses": {
+    "mean_yield": 0.32,
+    "std_yield": 0.13,
+    "record_count": 340
+  },
+  "madhya pradesh__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 93
+  },
+  "madhya pradesh__paddy": {
+    "mean_yield": 0.85,
+    "std_yield": 0.37,
+    "record_count": 35
+  },
+  "madhya pradesh__papaya": {
+    "mean_yield": 20.29,
+    "std_yield": 21.09,
+    "record_count": 68
+  },
+  "madhya pradesh__peas & beans (pulses)": {
+    "mean_yield": 0.49,
+    "std_yield": 0.23,
+    "record_count": 434
+  },
+  "madhya pradesh__pome fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 89
+  },
+  "madhya pradesh__potato": {
+    "mean_yield": 12.31,
+    "std_yield": 4.07,
+    "record_count": 663
+  },
+  "madhya pradesh__ragi": {
+    "mean_yield": 0.27,
+    "std_yield": 0.14,
+    "record_count": 67
+  },
+  "madhya pradesh__rapeseed &mustard": {
+    "mean_yield": 0.74,
+    "std_yield": 0.33,
+    "record_count": 771
+  },
+  "madhya pradesh__rice": {
+    "mean_yield": 0.98,
+    "std_yield": 0.66,
+    "record_count": 749
+  },
+  "madhya pradesh__safflower": {
+    "mean_yield": 0.29,
+    "std_yield": 0.18,
+    "record_count": 160
+  },
+  "madhya pradesh__sannhamp": {
+    "mean_yield": 1.58,
+    "std_yield": 1.03,
+    "record_count": 488
+  },
+  "madhya pradesh__sesamum": {
+    "mean_yield": 0.42,
+    "std_yield": 0.2,
+    "record_count": 783
+  },
+  "madhya pradesh__small millets": {
+    "mean_yield": 0.32,
+    "std_yield": 0.27,
+    "record_count": 528
+  },
+  "madhya pradesh__soyabean": {
+    "mean_yield": 0.91,
+    "std_yield": 0.39,
+    "record_count": 797
+  },
+  "madhya pradesh__sugarcane": {
+    "mean_yield": 30.11,
+    "std_yield": 12.47,
+    "record_count": 735
+  },
+  "madhya pradesh__sunflower": {
+    "mean_yield": 0.37,
+    "std_yield": 0.18,
+    "record_count": 228
+  },
+  "madhya pradesh__sweet potato": {
+    "mean_yield": 5.77,
+    "std_yield": 1.49,
+    "record_count": 641
+  },
+  "madhya pradesh__tobacco": {
+    "mean_yield": 0.52,
+    "std_yield": 0.22,
+    "record_count": 87
+  },
+  "madhya pradesh__tomato": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 93
+  },
+  "madhya pradesh__turmeric": {
+    "mean_yield": 0.94,
+    "std_yield": 0.31,
+    "record_count": 418
+  },
+  "madhya pradesh__urad": {
+    "mean_yield": 0.34,
+    "std_yield": 0.13,
+    "record_count": 759
+  },
+  "madhya pradesh__water melon": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 24
+  },
+  "madhya pradesh__wheat": {
+    "mean_yield": 1.89,
+    "std_yield": 0.81,
+    "record_count": 804
+  },
+  "madhya pradesh__other misc. pulses": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 22
+  },
+  "maharashtra__arhar/tur": {
+    "mean_yield": 0.62,
+    "std_yield": 0.28,
+    "record_count": 569
+  },
+  "maharashtra__bajra": {
+    "mean_yield": 0.67,
+    "std_yield": 0.27,
+    "record_count": 384
+  },
+  "maharashtra__banana": {
+    "mean_yield": 45.96,
+    "std_yield": 15.14,
+    "record_count": 21
+  },
+  "maharashtra__castor seed": {
+    "mean_yield": 0.37,
+    "std_yield": 0.32,
+    "record_count": 285
+  },
+  "maharashtra__cotton(lint)": {
+    "mean_yield": 2.86,
+    "std_yield": 8.47,
+    "record_count": 456
+  },
+  "maharashtra__gram": {
+    "mean_yield": 0.67,
+    "std_yield": 0.23,
+    "record_count": 548
+  },
+  "maharashtra__grapes": {
+    "mean_yield": 23.88,
+    "std_yield": 6.53,
+    "record_count": 24
+  },
+  "maharashtra__groundnut": {
+    "mean_yield": 1.11,
+    "std_yield": 0.55,
+    "record_count": 868
+  },
+  "maharashtra__jowar": {
+    "mean_yield": 0.98,
+    "std_yield": 0.67,
+    "record_count": 875
+  },
+  "maharashtra__linseed": {
+    "mean_yield": 0.3,
+    "std_yield": 0.18,
+    "record_count": 275
+  },
+  "maharashtra__maize": {
+    "mean_yield": 1.75,
+    "std_yield": 0.78,
+    "record_count": 1047
+  },
+  "maharashtra__mango": {
+    "mean_yield": 1.94,
+    "std_yield": 0.57,
+    "record_count": 31
+  },
+  "maharashtra__moong(green gram)": {
+    "mean_yield": 0.52,
+    "std_yield": 0.25,
+    "record_count": 565
+  },
+  "maharashtra__niger seed": {
+    "mean_yield": 0.31,
+    "std_yield": 0.19,
+    "record_count": 305
+  },
+  "maharashtra__onion": {
+    "mean_yield": 12.45,
+    "std_yield": 5.34,
+    "record_count": 26
+  },
+  "maharashtra__other  rabi pulses": {
+    "mean_yield": 0.4,
+    "std_yield": 0.2,
+    "record_count": 296
+  },
+  "maharashtra__other cereals & millets": {
+    "mean_yield": 0.64,
+    "std_yield": 0.28,
+    "record_count": 82
+  },
+  "maharashtra__other kharif pulses": {
+    "mean_yield": 0.35,
+    "std_yield": 0.18,
+    "record_count": 336
+  },
+  "maharashtra__pulses total": {
+    "mean_yield": 0.35,
+    "std_yield": 0.16,
+    "record_count": 29
+  },
+  "maharashtra__ragi": {
+    "mean_yield": 1.02,
+    "std_yield": 0.32,
+    "record_count": 206
+  },
+  "maharashtra__rapeseed &mustard": {
+    "mean_yield": 0.37,
+    "std_yield": 0.25,
+    "record_count": 357
+  },
+  "maharashtra__rice": {
+    "mean_yield": 1.42,
+    "std_yield": 0.87,
+    "record_count": 651
+  },
+  "maharashtra__safflower": {
+    "mean_yield": 0.56,
+    "std_yield": 0.27,
+    "record_count": 335
+  },
+  "maharashtra__sesamum": {
+    "mean_yield": 0.33,
+    "std_yield": 0.23,
+    "record_count": 648
+  },
+  "maharashtra__small millets": {
+    "mean_yield": 0.57,
+    "std_yield": 0.25,
+    "record_count": 210
+  },
+  "maharashtra__soyabean": {
+    "mean_yield": 1.28,
+    "std_yield": 0.54,
+    "record_count": 477
+  },
+  "maharashtra__sugarcane": {
+    "mean_yield": 54.73,
+    "std_yield": 13.96,
+    "record_count": 190
+  },
+  "maharashtra__sunflower": {
+    "mean_yield": 0.62,
+    "std_yield": 0.29,
+    "record_count": 946
+  },
+  "maharashtra__tomato": {
+    "mean_yield": 3.05,
+    "std_yield": 0.32,
+    "record_count": 30
+  },
+  "maharashtra__total foodgrain": {
+    "mean_yield": 0.99,
+    "std_yield": 0.55,
+    "record_count": 29
+  },
+  "maharashtra__urad": {
+    "mean_yield": 0.56,
+    "std_yield": 0.23,
+    "record_count": 548
+  },
+  "maharashtra__wheat": {
+    "mean_yield": 1.37,
+    "std_yield": 0.48,
+    "record_count": 518
+  },
+  "maharashtra__other oilseeds": {
+    "mean_yield": 0.26,
+    "std_yield": 0.19,
+    "record_count": 38
+  },
+  "manipur__banana": {
+    "mean_yield": 11.88,
+    "std_yield": 2.22,
+    "record_count": 101
+  },
+  "manipur__beans & mutter(vegetable)": {
+    "mean_yield": 4.59,
+    "std_yield": 0.63,
+    "record_count": 18
+  },
+  "manipur__bhindi": {
+    "mean_yield": 3.32,
+    "std_yield": 0.91,
+    "record_count": 18
+  },
+  "manipur__bitter gourd": {
+    "mean_yield": 5.84,
+    "std_yield": 1.15,
+    "record_count": 10
+  },
+  "manipur__bottle gourd": {
+    "mean_yield": 7.04,
+    "std_yield": 2.47,
+    "record_count": 12
+  },
+  "manipur__brinjal": {
+    "mean_yield": 4.64,
+    "std_yield": 1.25,
+    "record_count": 18
+  },
+  "manipur__cabbage": {
+    "mean_yield": 12.18,
+    "std_yield": 0.54,
+    "record_count": 18
+  },
+  "manipur__carrot": {
+    "mean_yield": 7.31,
+    "std_yield": 2.01,
+    "record_count": 18
+  },
+  "manipur__cauliflower": {
+    "mean_yield": 8.48,
+    "std_yield": 1.37,
+    "record_count": 18
+  },
+  "manipur__citrus fruit": {
+    "mean_yield": 4.85,
+    "std_yield": 1.62,
+    "record_count": 18
+  },
+  "manipur__cotton(lint)": {
+    "mean_yield": 0.49,
+    "std_yield": 0.25,
+    "record_count": 8
+  },
+  "manipur__dry chillies": {
+    "mean_yield": 0.62,
+    "std_yield": 0.19,
+    "record_count": 104
+  },
+  "manipur__dry ginger": {
+    "mean_yield": 1.68,
+    "std_yield": 0.16,
+    "record_count": 78
+  },
+  "manipur__jack fruit": {
+    "mean_yield": 4.46,
+    "std_yield": 1.5,
+    "record_count": 16
+  },
+  "manipur__maize": {
+    "mean_yield": 2.66,
+    "std_yield": 1.12,
+    "record_count": 44
+  },
+  "manipur__mango": {
+    "mean_yield": 5.31,
+    "std_yield": 0.79,
+    "record_count": 16
+  },
+  "manipur__onion": {
+    "mean_yield": 2.1,
+    "std_yield": 0.1,
+    "record_count": 64
+  },
+  "manipur__orange": {
+    "mean_yield": 4.09,
+    "std_yield": 0.04,
+    "record_count": 7
+  },
+  "manipur__other fresh fruits": {
+    "mean_yield": 3.38,
+    "std_yield": 1.83,
+    "record_count": 18
+  },
+  "manipur__other kharif pulses": {
+    "mean_yield": 0.56,
+    "std_yield": 0.15,
+    "record_count": 58
+  },
+  "manipur__other vegetables": {
+    "mean_yield": 5.89,
+    "std_yield": 1.84,
+    "record_count": 18
+  },
+  "manipur__papaya": {
+    "mean_yield": 5.66,
+    "std_yield": 0.99,
+    "record_count": 18
+  },
+  "manipur__peas & beans (pulses)": {
+    "mean_yield": 0.53,
+    "std_yield": 0.08,
+    "record_count": 101
+  },
+  "manipur__pineapple": {
+    "mean_yield": 7.28,
+    "std_yield": 0.49,
+    "record_count": 18
+  },
+  "manipur__pome fruit": {
+    "mean_yield": 3.01,
+    "std_yield": 0.56,
+    "record_count": 16
+  },
+  "manipur__potato": {
+    "mean_yield": 5.21,
+    "std_yield": 0.1,
+    "record_count": 79
+  },
+  "manipur__rapeseed &mustard": {
+    "mean_yield": 0.48,
+    "std_yield": 0.12,
+    "record_count": 22
+  },
+  "manipur__redish": {
+    "mean_yield": 8.76,
+    "std_yield": 2.27,
+    "record_count": 18
+  },
+  "manipur__rice": {
+    "mean_yield": 2.22,
+    "std_yield": 0.58,
+    "record_count": 107
+  },
+  "manipur__sesamum": {
+    "mean_yield": 0.51,
+    "std_yield": 0.12,
+    "record_count": 27
+  },
+  "manipur__soyabean": {
+    "mean_yield": 1.11,
+    "std_yield": 0.22,
+    "record_count": 31
+  },
+  "manipur__sugarcane": {
+    "mean_yield": 31.86,
+    "std_yield": 5.19,
+    "record_count": 39
+  },
+  "manipur__sweet potato": {
+    "mean_yield": 5.18,
+    "std_yield": 1.56,
+    "record_count": 20
+  },
+  "manipur__tapioca": {
+    "mean_yield": 5.34,
+    "std_yield": 1.85,
+    "record_count": 18
+  },
+  "manipur__tomato": {
+    "mean_yield": 7.95,
+    "std_yield": 0.75,
+    "record_count": 18
+  },
+  "manipur__turmeric": {
+    "mean_yield": 0.78,
+    "std_yield": 0.19,
+    "record_count": 44
+  },
+  "meghalaya__arecanut": {
+    "mean_yield": 1.24,
+    "std_yield": 0.42,
+    "record_count": 118
+  },
+  "meghalaya__arhar/tur": {
+    "mean_yield": 0.87,
+    "std_yield": 0.19,
+    "record_count": 55
+  },
+  "meghalaya__banana": {
+    "mean_yield": 10.61,
+    "std_yield": 4.32,
+    "record_count": 120
+  },
+  "meghalaya__black pepper": {
+    "mean_yield": 0.63,
+    "std_yield": 0.2,
+    "record_count": 64
+  },
+  "meghalaya__cashewnut": {
+    "mean_yield": 1.45,
+    "std_yield": 0.72,
+    "record_count": 25
+  },
+  "meghalaya__castor seed": {
+    "mean_yield": 0.69,
+    "std_yield": 0.28,
+    "record_count": 48
+  },
+  "meghalaya__citrus fruit": {
+    "mean_yield": 3.33,
+    "std_yield": 1.74,
+    "record_count": 14
+  },
+  "meghalaya__cotton(lint)": {
+    "mean_yield": 0.98,
+    "std_yield": 0.21,
+    "record_count": 58
+  },
+  "meghalaya__cowpea(lobia)": {
+    "mean_yield": 1.51,
+    "std_yield": 0.75,
+    "record_count": 22
+  },
+  "meghalaya__dry chillies": {
+    "mean_yield": 0.84,
+    "std_yield": 0.42,
+    "record_count": 120
+  },
+  "meghalaya__dry ginger": {
+    "mean_yield": 7.03,
+    "std_yield": 3.44,
+    "record_count": 127
+  },
+  "meghalaya__garlic": {
+    "mean_yield": 1.79,
+    "std_yield": 1.15,
+    "record_count": 7
+  },
+  "meghalaya__gram": {
+    "mean_yield": 0.69,
+    "std_yield": 0.18,
+    "record_count": 58
+  },
+  "meghalaya__jute": {
+    "mean_yield": 7.43,
+    "std_yield": 2.57,
+    "record_count": 58
+  },
+  "meghalaya__linseed": {
+    "mean_yield": 0.49,
+    "std_yield": 0.04,
+    "record_count": 16
+  },
+  "meghalaya__maize": {
+    "mean_yield": 1.65,
+    "std_yield": 0.55,
+    "record_count": 134
+  },
+  "meghalaya__masoor": {
+    "mean_yield": 1.07,
+    "std_yield": 0.45,
+    "record_count": 24
+  },
+  "meghalaya__mesta": {
+    "mean_yield": 4.93,
+    "std_yield": 0.64,
+    "record_count": 58
+  },
+  "meghalaya__oilseeds total": {
+    "mean_yield": 0.72,
+    "std_yield": 0.18,
+    "record_count": 8
+  },
+  "meghalaya__other  rabi pulses": {
+    "mean_yield": 0.78,
+    "std_yield": 0.31,
+    "record_count": 91
+  },
+  "meghalaya__papaya": {
+    "mean_yield": 6.44,
+    "std_yield": 2.64,
+    "record_count": 14
+  },
+  "meghalaya__peas & beans (pulses)": {
+    "mean_yield": 1.54,
+    "std_yield": 0.91,
+    "record_count": 50
+  },
+  "meghalaya__pineapple": {
+    "mean_yield": 8.9,
+    "std_yield": 4.2,
+    "record_count": 14
+  },
+  "meghalaya__potato": {
+    "mean_yield": 7.53,
+    "std_yield": 1.77,
+    "record_count": 138
+  },
+  "meghalaya__pulses total": {
+    "mean_yield": 0.76,
+    "std_yield": 0.12,
+    "record_count": 14
+  },
+  "meghalaya__rapeseed &mustard": {
+    "mean_yield": 0.68,
+    "std_yield": 0.18,
+    "record_count": 134
+  },
+  "meghalaya__rice": {
+    "mean_yield": 1.89,
+    "std_yield": 0.65,
+    "record_count": 286
+  },
+  "meghalaya__sesamum": {
+    "mean_yield": 0.67,
+    "std_yield": 0.24,
+    "record_count": 123
+  },
+  "meghalaya__small millets": {
+    "mean_yield": 0.95,
+    "std_yield": 0.24,
+    "record_count": 125
+  },
+  "meghalaya__soyabean": {
+    "mean_yield": 1.25,
+    "std_yield": 1.04,
+    "record_count": 113
+  },
+  "meghalaya__sugarcane": {
+    "mean_yield": 2.42,
+    "std_yield": 0.93,
+    "record_count": 96
+  },
+  "meghalaya__sweet potato": {
+    "mean_yield": 3.48,
+    "std_yield": 0.69,
+    "record_count": 134
+  },
+  "meghalaya__tapioca": {
+    "mean_yield": 6.45,
+    "std_yield": 2.47,
+    "record_count": 127
+  },
+  "meghalaya__tobacco": {
+    "mean_yield": 0.7,
+    "std_yield": 0.25,
+    "record_count": 86
+  },
+  "meghalaya__total foodgrain": {
+    "mean_yield": 1.57,
+    "std_yield": 0.22,
+    "record_count": 8
+  },
+  "meghalaya__turmeric": {
+    "mean_yield": 5.5,
+    "std_yield": 1.12,
+    "record_count": 120
+  },
+  "meghalaya__wheat": {
+    "mean_yield": 1.36,
+    "std_yield": 0.4,
+    "record_count": 53
+  },
+  "mizoram__arhar/tur": {
+    "mean_yield": 1.04,
+    "std_yield": 0.69,
+    "record_count": 33
+  },
+  "mizoram__cotton(lint)": {
+    "mean_yield": 1.83,
+    "std_yield": 1.61,
+    "record_count": 56
+  },
+  "mizoram__gram": {
+    "mean_yield": 1.05,
+    "std_yield": 0.54,
+    "record_count": 6
+  },
+  "mizoram__groundnut": {
+    "mean_yield": 1.12,
+    "std_yield": 0.4,
+    "record_count": 15
+  },
+  "mizoram__kapas": {
+    "mean_yield": 0.71,
+    "std_yield": 0.33,
+    "record_count": 8
+  },
+  "mizoram__maize": {
+    "mean_yield": 1.75,
+    "std_yield": 0.92,
+    "record_count": 131
+  },
+  "mizoram__masoor": {
+    "mean_yield": 0.92,
+    "std_yield": 0.46,
+    "record_count": 17
+  },
+  "mizoram__moong(green gram)": {
+    "mean_yield": 1.07,
+    "std_yield": 0.48,
+    "record_count": 26
+  },
+  "mizoram__other  rabi pulses": {
+    "mean_yield": 1.54,
+    "std_yield": 0.83,
+    "record_count": 54
+  },
+  "mizoram__other kharif pulses": {
+    "mean_yield": 0.97,
+    "std_yield": 0.46,
+    "record_count": 58
+  },
+  "mizoram__peas & beans (pulses)": {
+    "mean_yield": 1.08,
+    "std_yield": 0.46,
+    "record_count": 29
+  },
+  "mizoram__potato": {
+    "mean_yield": 4.52,
+    "std_yield": 3.34,
+    "record_count": 58
+  },
+  "mizoram__rapeseed &mustard": {
+    "mean_yield": 0.84,
+    "std_yield": 0.49,
+    "record_count": 42
+  },
+  "mizoram__rice": {
+    "mean_yield": 1.57,
+    "std_yield": 1.1,
+    "record_count": 94
+  },
+  "mizoram__sesamum": {
+    "mean_yield": 0.67,
+    "std_yield": 0.25,
+    "record_count": 41
+  },
+  "mizoram__soyabean": {
+    "mean_yield": 1.29,
+    "std_yield": 0.71,
+    "record_count": 42
+  },
+  "mizoram__sugarcane": {
+    "mean_yield": 10.19,
+    "std_yield": 10.74,
+    "record_count": 65
+  },
+  "mizoram__tapioca": {
+    "mean_yield": 6.75,
+    "std_yield": 4.93,
+    "record_count": 38
+  },
+  "mizoram__tobacco": {
+    "mean_yield": 0.74,
+    "std_yield": 0.31,
+    "record_count": 58
+  },
+  "mizoram__urad": {
+    "mean_yield": 1.08,
+    "std_yield": 0.64,
+    "record_count": 16
+  },
+  "mizoram__wheat": {
+    "mean_yield": 0.98,
+    "std_yield": 0.36,
+    "record_count": 5
+  },
+  "mizoram__other oilseeds": {
+    "mean_yield": 0.74,
+    "std_yield": 0.4,
+    "record_count": 56
+  },
+  "nagaland__arhar/tur": {
+    "mean_yield": 0.91,
+    "std_yield": 0.18,
+    "record_count": 141
+  },
+  "nagaland__bajra": {
+    "mean_yield": 1.02,
+    "std_yield": 0.42,
+    "record_count": 128
+  },
+  "nagaland__barley": {
+    "mean_yield": 1.44,
+    "std_yield": 0.37,
+    "record_count": 106
+  },
+  "nagaland__bean": {
+    "mean_yield": 1.34,
+    "std_yield": 0.03,
+    "record_count": 20
+  },
+  "nagaland__blackgram": {
+    "mean_yield": 0.77,
+    "std_yield": 0.09,
+    "record_count": 41
+  },
+  "nagaland__cardamom": {
+    "mean_yield": 0.76,
+    "std_yield": 0.61,
+    "record_count": 17
+  },
+  "nagaland__castor seed": {
+    "mean_yield": 0.73,
+    "std_yield": 0.85,
+    "record_count": 67
+  },
+  "nagaland__colocosia": {
+    "mean_yield": 9.51,
+    "std_yield": 0.01,
+    "record_count": 11
+  },
+  "nagaland__cotton(lint)": {
+    "mean_yield": 1.28,
+    "std_yield": 1.56,
+    "record_count": 61
+  },
+  "nagaland__cowpea(lobia)": {
+    "mean_yield": 1.47,
+    "std_yield": 0.03,
+    "record_count": 6
+  },
+  "nagaland__dry chillies": {
+    "mean_yield": 1.26,
+    "std_yield": 0.08,
+    "record_count": 19
+  },
+  "nagaland__dry ginger": {
+    "mean_yield": 8.57,
+    "std_yield": 1.15,
+    "record_count": 27
+  },
+  "nagaland__ginger": {
+    "mean_yield": 9.12,
+    "std_yield": 0.01,
+    "record_count": 44
+  },
+  "nagaland__gram": {
+    "mean_yield": 0.87,
+    "std_yield": 0.27,
+    "record_count": 121
+  },
+  "nagaland__groundnut": {
+    "mean_yield": 1.06,
+    "std_yield": 0.25,
+    "record_count": 144
+  },
+  "nagaland__horse-gram": {
+    "mean_yield": 1.03,
+    "std_yield": 0.16,
+    "record_count": 44
+  },
+  "nagaland__jobster": {
+    "mean_yield": 1.01,
+    "std_yield": 0.04,
+    "record_count": 9
+  },
+  "nagaland__jowar": {
+    "mean_yield": 1.07,
+    "std_yield": 0.45,
+    "record_count": 111
+  },
+  "nagaland__jute": {
+    "mean_yield": 2.96,
+    "std_yield": 2.66,
+    "record_count": 70
+  },
+  "nagaland__lentil": {
+    "mean_yield": 0.82,
+    "std_yield": 0.01,
+    "record_count": 18
+  },
+  "nagaland__linseed": {
+    "mean_yield": 0.73,
+    "std_yield": 0.24,
+    "record_count": 137
+  },
+  "nagaland__maize": {
+    "mean_yield": 1.76,
+    "std_yield": 0.34,
+    "record_count": 212
+  },
+  "nagaland__masoor": {
+    "mean_yield": 0.88,
+    "std_yield": 0.5,
+    "record_count": 76
+  },
+  "nagaland__mesta": {
+    "mean_yield": 1.35,
+    "std_yield": 0.4,
+    "record_count": 66
+  },
+  "nagaland__moong(green gram)": {
+    "mean_yield": 0.96,
+    "std_yield": 0.26,
+    "record_count": 114
+  },
+  "nagaland__niger seed": {
+    "mean_yield": 0.85,
+    "std_yield": 0.44,
+    "record_count": 22
+  },
+  "nagaland__oilseeds total": {
+    "mean_yield": 1.02,
+    "std_yield": 0.08,
+    "record_count": 22
+  },
+  "nagaland__other  rabi pulses": {
+    "mean_yield": 1.02,
+    "std_yield": 0.31,
+    "record_count": 73
+  },
+  "nagaland__other kharif pulses": {
+    "mean_yield": 0.97,
+    "std_yield": 0.26,
+    "record_count": 69
+  },
+  "nagaland__peas & beans (pulses)": {
+    "mean_yield": 1.1,
+    "std_yield": 0.45,
+    "record_count": 242
+  },
+  "nagaland__perilla": {
+    "mean_yield": 0.6,
+    "std_yield": 0.03,
+    "record_count": 9
+  },
+  "nagaland__potato": {
+    "mean_yield": 10.75,
+    "std_yield": 2.1,
+    "record_count": 162
+  },
+  "nagaland__ragi": {
+    "mean_yield": 0.91,
+    "std_yield": 0.13,
+    "record_count": 42
+  },
+  "nagaland__rajmash kholar": {
+    "mean_yield": 1.24,
+    "std_yield": 0.02,
+    "record_count": 18
+  },
+  "nagaland__rapeseed &mustard": {
+    "mean_yield": 0.91,
+    "std_yield": 0.15,
+    "record_count": 148
+  },
+  "nagaland__rice": {
+    "mean_yield": 1.82,
+    "std_yield": 0.4,
+    "record_count": 190
+  },
+  "nagaland__ricebean (nagadal)": {
+    "mean_yield": 1.11,
+    "std_yield": 0.02,
+    "record_count": 10
+  },
+  "nagaland__sesamum": {
+    "mean_yield": 0.65,
+    "std_yield": 0.17,
+    "record_count": 149
+  },
+  "nagaland__small millets": {
+    "mean_yield": 0.97,
+    "std_yield": 0.37,
+    "record_count": 128
+  },
+  "nagaland__soyabean": {
+    "mean_yield": 1.29,
+    "std_yield": 0.22,
+    "record_count": 147
+  },
+  "nagaland__sugarcane": {
+    "mean_yield": 39.23,
+    "std_yield": 10.78,
+    "record_count": 108
+  },
+  "nagaland__sunflower": {
+    "mean_yield": 0.99,
+    "std_yield": 0.47,
+    "record_count": 173
+  },
+  "nagaland__sweet potato": {
+    "mean_yield": 8.49,
+    "std_yield": 0.05,
+    "record_count": 44
+  },
+  "nagaland__tapioca": {
+    "mean_yield": 20.52,
+    "std_yield": 3.93,
+    "record_count": 85
+  },
+  "nagaland__tea": {
+    "mean_yield": 2.8,
+    "std_yield": 1.76,
+    "record_count": 46
+  },
+  "nagaland__turmeric": {
+    "mean_yield": 4.38,
+    "std_yield": 0.34,
+    "record_count": 15
+  },
+  "nagaland__urad": {
+    "mean_yield": 0.84,
+    "std_yield": 0.24,
+    "record_count": 58
+  },
+  "nagaland__wheat": {
+    "mean_yield": 1.69,
+    "std_yield": 0.42,
+    "record_count": 128
+  },
+  "odisha__arhar/tur": {
+    "mean_yield": 0.51,
+    "std_yield": 0.27,
+    "record_count": 226
+  },
+  "odisha__bajra": {
+    "mean_yield": 0.54,
+    "std_yield": 0.12,
+    "record_count": 68
+  },
+  "odisha__castor seed": {
+    "mean_yield": 0.51,
+    "std_yield": 0.27,
+    "record_count": 296
+  },
+  "odisha__coriander": {
+    "mean_yield": 0.47,
+    "std_yield": 0.07,
+    "record_count": 176
+  },
+  "odisha__cotton(lint)": {
+    "mean_yield": 1.44,
+    "std_yield": 0.73,
+    "record_count": 29
+  },
+  "odisha__dry chillies": {
+    "mean_yield": 0.83,
+    "std_yield": 0.15,
+    "record_count": 210
+  },
+  "odisha__dry ginger": {
+    "mean_yield": 1.87,
+    "std_yield": 0.41,
+    "record_count": 176
+  },
+  "odisha__garlic": {
+    "mean_yield": 3.12,
+    "std_yield": 0.23,
+    "record_count": 180
+  },
+  "odisha__gram": {
+    "mean_yield": 0.51,
+    "std_yield": 0.19,
+    "record_count": 173
+  },
+  "odisha__groundnut": {
+    "mean_yield": 1.07,
+    "std_yield": 0.4,
+    "record_count": 1156
+  },
+  "odisha__horse-gram": {
+    "mean_yield": 0.3,
+    "std_yield": 0.12,
+    "record_count": 628
+  },
+  "odisha__jowar": {
+    "mean_yield": 0.58,
+    "std_yield": 0.17,
+    "record_count": 119
+  },
+  "odisha__jute": {
+    "mean_yield": 6.08,
+    "std_yield": 3.52,
+    "record_count": 163
+  },
+  "odisha__linseed": {
+    "mean_yield": 0.38,
+    "std_yield": 0.26,
+    "record_count": 92
+  },
+  "odisha__maize": {
+    "mean_yield": 1.37,
+    "std_yield": 0.78,
+    "record_count": 994
+  },
+  "odisha__masoor": {
+    "mean_yield": 0.39,
+    "std_yield": 0.07,
+    "record_count": 24
+  },
+  "odisha__mesta": {
+    "mean_yield": 3.88,
+    "std_yield": 1.37,
+    "record_count": 52
+  },
+  "odisha__moong(green gram)": {
+    "mean_yield": 0.27,
+    "std_yield": 0.13,
+    "record_count": 1061
+  },
+  "odisha__niger seed": {
+    "mean_yield": 0.32,
+    "std_yield": 0.14,
+    "record_count": 137
+  },
+  "odisha__onion": {
+    "mean_yield": 8.3,
+    "std_yield": 2.32,
+    "record_count": 180
+  },
+  "odisha__other  rabi pulses": {
+    "mean_yield": 0.58,
+    "std_yield": 0.2,
+    "record_count": 137
+  },
+  "odisha__other kharif pulses": {
+    "mean_yield": 0.49,
+    "std_yield": 0.14,
+    "record_count": 45
+  },
+  "odisha__paddy": {
+    "mean_yield": 1.38,
+    "std_yield": 0.4,
+    "record_count": 90
+  },
+  "odisha__potato": {
+    "mean_yield": 9.93,
+    "std_yield": 2.95,
+    "record_count": 538
+  },
+  "odisha__ragi": {
+    "mean_yield": 0.57,
+    "std_yield": 0.24,
+    "record_count": 700
+  },
+  "odisha__rapeseed &mustard": {
+    "mean_yield": 0.19,
+    "std_yield": 0.11,
+    "record_count": 522
+  },
+  "odisha__rice": {
+    "mean_yield": 1.53,
+    "std_yield": 0.76,
+    "record_count": 1341
+  },
+  "odisha__safflower": {
+    "mean_yield": 0.49,
+    "std_yield": 0.24,
+    "record_count": 59
+  },
+  "odisha__sannhamp": {
+    "mean_yield": 3.96,
+    "std_yield": 1.68,
+    "record_count": 40
+  },
+  "odisha__sesamum": {
+    "mean_yield": 0.24,
+    "std_yield": 0.12,
+    "record_count": 1031
+  },
+  "odisha__small millets": {
+    "mean_yield": 0.42,
+    "std_yield": 0.11,
+    "record_count": 108
+  },
+  "odisha__sugarcane": {
+    "mean_yield": 51.82,
+    "std_yield": 9.86,
+    "record_count": 427
+  },
+  "odisha__sunflower": {
+    "mean_yield": 0.64,
+    "std_yield": 0.28,
+    "record_count": 198
+  },
+  "odisha__sweet potato": {
+    "mean_yield": 8.23,
+    "std_yield": 0.94,
+    "record_count": 191
+  },
+  "odisha__tobacco": {
+    "mean_yield": 0.52,
+    "std_yield": 0.23,
+    "record_count": 62
+  },
+  "odisha__turmeric": {
+    "mean_yield": 2.18,
+    "std_yield": 0.41,
+    "record_count": 170
+  },
+  "odisha__urad": {
+    "mean_yield": 0.28,
+    "std_yield": 0.13,
+    "record_count": 1155
+  },
+  "odisha__wheat": {
+    "mean_yield": 1.3,
+    "std_yield": 0.42,
+    "record_count": 451
+  },
+  "puducherry__arecanut": {
+    "mean_yield": 1.39,
+    "std_yield": 0.47,
+    "record_count": 12
+  },
+  "puducherry__bajra": {
+    "mean_yield": 2.28,
+    "std_yield": 0.42,
+    "record_count": 19
+  },
+  "puducherry__banana": {
+    "mean_yield": 23.94,
+    "std_yield": 9.73,
+    "record_count": 49
+  },
+  "puducherry__black pepper": {
+    "mean_yield": 0.62,
+    "std_yield": 0.1,
+    "record_count": 14
+  },
+  "puducherry__brinjal": {
+    "mean_yield": 15.39,
+    "std_yield": 4.49,
+    "record_count": 17
+  },
+  "puducherry__cashewnut": {
+    "mean_yield": 0.91,
+    "std_yield": 1.11,
+    "record_count": 36
+  },
+  "puducherry__coriander": {
+    "mean_yield": 0.68,
+    "std_yield": 0.23,
+    "record_count": 11
+  },
+  "puducherry__cotton(lint)": {
+    "mean_yield": 2.12,
+    "std_yield": 1.95,
+    "record_count": 33
+  },
+  "puducherry__dry chillies": {
+    "mean_yield": 2.69,
+    "std_yield": 2.68,
+    "record_count": 45
+  },
+  "puducherry__dry ginger": {
+    "mean_yield": 0.55,
+    "std_yield": 0.28,
+    "record_count": 10
+  },
+  "puducherry__groundnut": {
+    "mean_yield": 1.73,
+    "std_yield": 0.65,
+    "record_count": 50
+  },
+  "puducherry__jowar": {
+    "mean_yield": 1.66,
+    "std_yield": 0.37,
+    "record_count": 12
+  },
+  "puducherry__mango": {
+    "mean_yield": 11.25,
+    "std_yield": 5.67,
+    "record_count": 24
+  },
+  "puducherry__moong(green gram)": {
+    "mean_yield": 0.53,
+    "std_yield": 0.24,
+    "record_count": 58
+  },
+  "puducherry__onion": {
+    "mean_yield": 10.61,
+    "std_yield": 6.19,
+    "record_count": 21
+  },
+  "puducherry__other  rabi pulses": {
+    "mean_yield": 0.98,
+    "std_yield": 0.39,
+    "record_count": 22
+  },
+  "puducherry__other kharif pulses": {
+    "mean_yield": 0.97,
+    "std_yield": 0.26,
+    "record_count": 11
+  },
+  "puducherry__paddy": {
+    "mean_yield": 4.31,
+    "std_yield": 0.88,
+    "record_count": 8
+  },
+  "puducherry__ragi": {
+    "mean_yield": 2.09,
+    "std_yield": 0.68,
+    "record_count": 38
+  },
+  "puducherry__rapeseed &mustard": {
+    "mean_yield": 6.19,
+    "std_yield": 1.94,
+    "record_count": 7
+  },
+  "puducherry__rice": {
+    "mean_yield": 2.84,
+    "std_yield": 0.92,
+    "record_count": 112
+  },
+  "puducherry__sesamum": {
+    "mean_yield": 0.69,
+    "std_yield": 0.26,
+    "record_count": 39
+  },
+  "puducherry__small millets": {
+    "mean_yield": 0.92,
+    "std_yield": 0.22,
+    "record_count": 7
+  },
+  "puducherry__sunflower": {
+    "mean_yield": 0.83,
+    "std_yield": 0.24,
+    "record_count": 5
+  },
+  "puducherry__sweet potato": {
+    "mean_yield": 8.5,
+    "std_yield": 4.73,
+    "record_count": 9
+  },
+  "puducherry__tapioca": {
+    "mean_yield": 21.74,
+    "std_yield": 10.21,
+    "record_count": 37
+  },
+  "puducherry__turmeric": {
+    "mean_yield": 1.74,
+    "std_yield": 0.33,
+    "record_count": 9
+  },
+  "puducherry__urad": {
+    "mean_yield": 0.65,
+    "std_yield": 0.31,
+    "record_count": 68
+  },
+  "punjab__arhar/tur": {
+    "mean_yield": 0.95,
+    "std_yield": 0.51,
+    "record_count": 215
+  },
+  "punjab__bajra": {
+    "mean_yield": 0.99,
+    "std_yield": 0.17,
+    "record_count": 63
+  },
+  "punjab__barley": {
+    "mean_yield": 3.38,
+    "std_yield": 0.49,
+    "record_count": 161
+  },
+  "punjab__cotton(lint)": {
+    "mean_yield": 3.0,
+    "std_yield": 1.16,
+    "record_count": 186
+  },
+  "punjab__gram": {
+    "mean_yield": 0.98,
+    "std_yield": 0.28,
+    "record_count": 211
+  },
+  "punjab__groundnut": {
+    "mean_yield": 1.0,
+    "std_yield": 0.3,
+    "record_count": 75
+  },
+  "punjab__guar seed": {
+    "mean_yield": 0.87,
+    "std_yield": 0.2,
+    "record_count": 88
+  },
+  "punjab__linseed": {
+    "mean_yield": 1.0,
+    "std_yield": 0.0,
+    "record_count": 16
+  },
+  "punjab__maize": {
+    "mean_yield": 3.19,
+    "std_yield": 0.96,
+    "record_count": 219
+  },
+  "punjab__masoor": {
+    "mean_yield": 0.7,
+    "std_yield": 0.24,
+    "record_count": 116
+  },
+  "punjab__moong(green gram)": {
+    "mean_yield": 0.78,
+    "std_yield": 0.22,
+    "record_count": 215
+  },
+  "punjab__moth": {
+    "mean_yield": 0.88,
+    "std_yield": 0.29,
+    "record_count": 16
+  },
+  "punjab__other  rabi pulses": {
+    "mean_yield": 1.01,
+    "std_yield": 0.12,
+    "record_count": 11
+  },
+  "punjab__peas & beans (pulses)": {
+    "mean_yield": 1.11,
+    "std_yield": 0.25,
+    "record_count": 90
+  },
+  "punjab__rapeseed &mustard": {
+    "mean_yield": 1.16,
+    "std_yield": 0.3,
+    "record_count": 288
+  },
+  "punjab__rice": {
+    "mean_yield": 3.71,
+    "std_yield": 0.54,
+    "record_count": 338
+  },
+  "punjab__sesamum": {
+    "mean_yield": 0.37,
+    "std_yield": 0.2,
+    "record_count": 174
+  },
+  "punjab__sugarcane": {
+    "mean_yield": 59.58,
+    "std_yield": 5.45,
+    "record_count": 138
+  },
+  "punjab__sunflower": {
+    "mean_yield": 1.87,
+    "std_yield": 0.24,
+    "record_count": 18
+  },
+  "punjab__urad": {
+    "mean_yield": 0.57,
+    "std_yield": 0.24,
+    "record_count": 85
+  },
+  "punjab__wheat": {
+    "mean_yield": 4.42,
+    "std_yield": 0.5,
+    "record_count": 338
+  },
+  "rajasthan__arhar/tur": {
+    "mean_yield": 0.73,
+    "std_yield": 0.46,
+    "record_count": 319
+  },
+  "rajasthan__bajra": {
+    "mean_yield": 0.78,
+    "std_yield": 0.52,
+    "record_count": 442
+  },
+  "rajasthan__banana": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 7
+  },
+  "rajasthan__barley": {
+    "mean_yield": 2.21,
+    "std_yield": 0.53,
+    "record_count": 450
+  },
+  "rajasthan__castor seed": {
+    "mean_yield": 0.84,
+    "std_yield": 0.62,
+    "record_count": 309
+  },
+  "rajasthan__citrus fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 43
+  },
+  "rajasthan__coriander": {
+    "mean_yield": 0.97,
+    "std_yield": 0.37,
+    "record_count": 377
+  },
+  "rajasthan__cotton(lint)": {
+    "mean_yield": 0.9,
+    "std_yield": 0.74,
+    "record_count": 397
+  },
+  "rajasthan__dry chillies": {
+    "mean_yield": 1.1,
+    "std_yield": 1.13,
+    "record_count": 406
+  },
+  "rajasthan__dry ginger": {
+    "mean_yield": 2.77,
+    "std_yield": 1.91,
+    "record_count": 42
+  },
+  "rajasthan__garlic": {
+    "mean_yield": 2.56,
+    "std_yield": 2.94,
+    "record_count": 359
+  },
+  "rajasthan__gram": {
+    "mean_yield": 0.83,
+    "std_yield": 0.3,
+    "record_count": 450
+  },
+  "rajasthan__grapes": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 7
+  },
+  "rajasthan__groundnut": {
+    "mean_yield": 1.22,
+    "std_yield": 0.46,
+    "record_count": 444
+  },
+  "rajasthan__guar seed": {
+    "mean_yield": 0.59,
+    "std_yield": 1.9,
+    "record_count": 324
+  },
+  "rajasthan__jowar": {
+    "mean_yield": 0.55,
+    "std_yield": 0.38,
+    "record_count": 436
+  },
+  "rajasthan__linseed": {
+    "mean_yield": 0.79,
+    "std_yield": 0.44,
+    "record_count": 278
+  },
+  "rajasthan__maize": {
+    "mean_yield": 1.27,
+    "std_yield": 0.49,
+    "record_count": 411
+  },
+  "rajasthan__mango": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 30
+  },
+  "rajasthan__masoor": {
+    "mean_yield": 0.95,
+    "std_yield": 0.28,
+    "record_count": 237
+  },
+  "rajasthan__mesta": {
+    "mean_yield": 0.51,
+    "std_yield": 0.36,
+    "record_count": 6
+  },
+  "rajasthan__moong(green gram)": {
+    "mean_yield": 0.28,
+    "std_yield": 0.21,
+    "record_count": 415
+  },
+  "rajasthan__moth": {
+    "mean_yield": 0.23,
+    "std_yield": 0.17,
+    "record_count": 302
+  },
+  "rajasthan__oilseeds total": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 13
+  },
+  "rajasthan__onion": {
+    "mean_yield": 4.98,
+    "std_yield": 5.05,
+    "record_count": 425
+  },
+  "rajasthan__orange": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 8
+  },
+  "rajasthan__other  rabi pulses": {
+    "mean_yield": 1.27,
+    "std_yield": 2.12,
+    "record_count": 213
+  },
+  "rajasthan__other fresh fruits": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 64
+  },
+  "rajasthan__other kharif pulses": {
+    "mean_yield": 0.33,
+    "std_yield": 0.23,
+    "record_count": 377
+  },
+  "rajasthan__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 64
+  },
+  "rajasthan__papaya": {
+    "mean_yield": 2.35,
+    "std_yield": 3.64,
+    "record_count": 30
+  },
+  "rajasthan__peas & beans (pulses)": {
+    "mean_yield": 1.71,
+    "std_yield": 1.38,
+    "record_count": 257
+  },
+  "rajasthan__pome fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 39
+  },
+  "rajasthan__potato": {
+    "mean_yield": 5.7,
+    "std_yield": 6.4,
+    "record_count": 352
+  },
+  "rajasthan__rapeseed &mustard": {
+    "mean_yield": 1.04,
+    "std_yield": 0.32,
+    "record_count": 451
+  },
+  "rajasthan__rice": {
+    "mean_yield": 1.5,
+    "std_yield": 0.89,
+    "record_count": 298
+  },
+  "rajasthan__sannhamp": {
+    "mean_yield": 0.81,
+    "std_yield": 2.09,
+    "record_count": 262
+  },
+  "rajasthan__sesamum": {
+    "mean_yield": 0.27,
+    "std_yield": 0.19,
+    "record_count": 443
+  },
+  "rajasthan__small millets": {
+    "mean_yield": 0.52,
+    "std_yield": 0.51,
+    "record_count": 146
+  },
+  "rajasthan__soyabean": {
+    "mean_yield": 1.15,
+    "std_yield": 0.29,
+    "record_count": 245
+  },
+  "rajasthan__sugarcane": {
+    "mean_yield": 50.23,
+    "std_yield": 10.16,
+    "record_count": 305
+  },
+  "rajasthan__sunflower": {
+    "mean_yield": 1.08,
+    "std_yield": 1.43,
+    "record_count": 56
+  },
+  "rajasthan__sweet potato": {
+    "mean_yield": 2.35,
+    "std_yield": 2.1,
+    "record_count": 254
+  },
+  "rajasthan__tapioca": {
+    "mean_yield": 2.09,
+    "std_yield": 1.12,
+    "record_count": 16
+  },
+  "rajasthan__tobacco": {
+    "mean_yield": 1.43,
+    "std_yield": 1.32,
+    "record_count": 174
+  },
+  "rajasthan__turmeric": {
+    "mean_yield": 2.82,
+    "std_yield": 3.82,
+    "record_count": 72
+  },
+  "rajasthan__urad": {
+    "mean_yield": 0.37,
+    "std_yield": 0.19,
+    "record_count": 321
+  },
+  "rajasthan__water melon": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 29
+  },
+  "rajasthan__wheat": {
+    "mean_yield": 2.57,
+    "std_yield": 0.72,
+    "record_count": 451
+  },
+  "rajasthan__other fibres": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 7
+  },
+  "rajasthan__other oilseeds": {
+    "mean_yield": 0.47,
+    "std_yield": 0.3,
+    "record_count": 163
+  },
+  "sikkim__barley": {
+    "mean_yield": 1.06,
+    "std_yield": 0.23,
+    "record_count": 72
+  },
+  "sikkim__maize": {
+    "mean_yield": 1.96,
+    "std_yield": 2.38,
+    "record_count": 72
+  },
+  "sikkim__oilseeds total": {
+    "mean_yield": 0.5,
+    "std_yield": 0.0,
+    "record_count": 8
+  },
+  "sikkim__other cereals & millets": {
+    "mean_yield": 0.83,
+    "std_yield": 0.11,
+    "record_count": 32
+  },
+  "sikkim__other fresh fruits": {
+    "mean_yield": 1.04,
+    "std_yield": 0.55,
+    "record_count": 8
+  },
+  "sikkim__other kharif pulses": {
+    "mean_yield": 1.11,
+    "std_yield": 0.95,
+    "record_count": 60
+  },
+  "sikkim__other vegetables": {
+    "mean_yield": 4.48,
+    "std_yield": 0.53,
+    "record_count": 8
+  },
+  "sikkim__potato": {
+    "mean_yield": 4.78,
+    "std_yield": 1.87,
+    "record_count": 8
+  },
+  "sikkim__rapeseed &mustard": {
+    "mean_yield": 0.89,
+    "std_yield": 0.99,
+    "record_count": 72
+  },
+  "sikkim__rice": {
+    "mean_yield": 2.14,
+    "std_yield": 2.75,
+    "record_count": 72
+  },
+  "sikkim__small millets": {
+    "mean_yield": 1.04,
+    "std_yield": 0.97,
+    "record_count": 68
+  },
+  "sikkim__soyabean": {
+    "mean_yield": 1.05,
+    "std_yield": 1.25,
+    "record_count": 72
+  },
+  "sikkim__urad": {
+    "mean_yield": 1.04,
+    "std_yield": 1.33,
+    "record_count": 68
+  },
+  "sikkim__wheat": {
+    "mean_yield": 1.16,
+    "std_yield": 0.29,
+    "record_count": 71
+  },
+  "sikkim__other oilseeds": {
+    "mean_yield": 0.55,
+    "std_yield": 0.17,
+    "record_count": 11
+  },
+  "tamil nadu__arecanut": {
+    "mean_yield": 1.66,
+    "std_yield": 0.81,
+    "record_count": 177
+  },
+  "tamil nadu__arhar/tur": {
+    "mean_yield": 0.7,
+    "std_yield": 0.25,
+    "record_count": 430
+  },
+  "tamil nadu__ash gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 44
+  },
+  "tamil nadu__bajra": {
+    "mean_yield": 1.75,
+    "std_yield": 1.16,
+    "record_count": 418
+  },
+  "tamil nadu__banana": {
+    "mean_yield": 40.1,
+    "std_yield": 10.42,
+    "record_count": 421
+  },
+  "tamil nadu__beans & mutter(vegetable)": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 20
+  },
+  "tamil nadu__beet root": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 16
+  },
+  "tamil nadu__ber": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 11
+  },
+  "tamil nadu__bhindi": {
+    "mean_yield": 7.23,
+    "std_yield": 1.16,
+    "record_count": 55
+  },
+  "tamil nadu__bitter gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 54
+  },
+  "tamil nadu__black pepper": {
+    "mean_yield": 0.22,
+    "std_yield": 0.07,
+    "record_count": 105
+  },
+  "tamil nadu__bottle gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 33
+  },
+  "tamil nadu__brinjal": {
+    "mean_yield": 9.38,
+    "std_yield": 2.63,
+    "record_count": 56
+  },
+  "tamil nadu__cabbage": {
+    "mean_yield": 60.29,
+    "std_yield": 5.29,
+    "record_count": 19
+  },
+  "tamil nadu__cardamom": {
+    "mean_yield": 0.09,
+    "std_yield": 0.01,
+    "record_count": 107
+  },
+  "tamil nadu__carrot": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 8
+  },
+  "tamil nadu__cashewnut": {
+    "mean_yield": 0.4,
+    "std_yield": 0.22,
+    "record_count": 354
+  },
+  "tamil nadu__castor seed": {
+    "mean_yield": 0.4,
+    "std_yield": 0.53,
+    "record_count": 345
+  },
+  "tamil nadu__cauliflower": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 14
+  },
+  "tamil nadu__citrus fruit": {
+    "mean_yield": 1.08,
+    "std_yield": 0.03,
+    "record_count": 55
+  },
+  "tamil nadu__coriander": {
+    "mean_yield": 0.34,
+    "std_yield": 0.14,
+    "record_count": 306
+  },
+  "tamil nadu__cotton(lint)": {
+    "mean_yield": 2.06,
+    "std_yield": 0.82,
+    "record_count": 510
+  },
+  "tamil nadu__cucumber": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 51
+  },
+  "tamil nadu__drum stick": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 55
+  },
+  "tamil nadu__dry chillies": {
+    "mean_yield": 0.66,
+    "std_yield": 0.3,
+    "record_count": 398
+  },
+  "tamil nadu__dry ginger": {
+    "mean_yield": 19.64,
+    "std_yield": 6.86,
+    "record_count": 98
+  },
+  "tamil nadu__garlic": {
+    "mean_yield": 5.37,
+    "std_yield": 1.43,
+    "record_count": 71
+  },
+  "tamil nadu__gram": {
+    "mean_yield": 0.58,
+    "std_yield": 0.26,
+    "record_count": 256
+  },
+  "tamil nadu__grapes": {
+    "mean_yield": 18.63,
+    "std_yield": 5.52,
+    "record_count": 27
+  },
+  "tamil nadu__groundnut": {
+    "mean_yield": 2.14,
+    "std_yield": 1.05,
+    "record_count": 544
+  },
+  "tamil nadu__guar seed": {
+    "mean_yield": 10.65,
+    "std_yield": 1.83,
+    "record_count": 27
+  },
+  "tamil nadu__horse-gram": {
+    "mean_yield": 0.46,
+    "std_yield": 0.18,
+    "record_count": 404
+  },
+  "tamil nadu__jack fruit": {
+    "mean_yield": 10.5,
+    "std_yield": 0.84,
+    "record_count": 54
+  },
+  "tamil nadu__jowar": {
+    "mean_yield": 1.18,
+    "std_yield": 0.62,
+    "record_count": 414
+  },
+  "tamil nadu__korra": {
+    "mean_yield": 0.58,
+    "std_yield": 0.28,
+    "record_count": 53
+  },
+  "tamil nadu__lab-lab": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 48
+  },
+  "tamil nadu__litchi": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 6
+  },
+  "tamil nadu__maize": {
+    "mean_yield": 3.87,
+    "std_yield": 2.36,
+    "record_count": 425
+  },
+  "tamil nadu__mango": {
+    "mean_yield": 4.95,
+    "std_yield": 2.31,
+    "record_count": 57
+  },
+  "tamil nadu__mesta": {
+    "mean_yield": 4.53,
+    "std_yield": 0.29,
+    "record_count": 14
+  },
+  "tamil nadu__moong(green gram)": {
+    "mean_yield": 0.47,
+    "std_yield": 0.19,
+    "record_count": 497
+  },
+  "tamil nadu__onion": {
+    "mean_yield": 9.15,
+    "std_yield": 2.86,
+    "record_count": 380
+  },
+  "tamil nadu__orange": {
+    "mean_yield": 1.85,
+    "std_yield": 0.22,
+    "record_count": 38
+  },
+  "tamil nadu__other cereals & millets": {
+    "mean_yield": 0.83,
+    "std_yield": 0.22,
+    "record_count": 19
+  },
+  "tamil nadu__other citrus fruit": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 54
+  },
+  "tamil nadu__other fresh fruits": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 55
+  },
+  "tamil nadu__other kharif pulses": {
+    "mean_yield": 0.24,
+    "std_yield": 0.16,
+    "record_count": 133
+  },
+  "tamil nadu__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 57
+  },
+  "tamil nadu__papaya": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 32
+  },
+  "tamil nadu__pear": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 6
+  },
+  "tamil nadu__pineapple": {
+    "mean_yield": 30.0,
+    "std_yield": 3.96,
+    "record_count": 14
+  },
+  "tamil nadu__plums": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 6
+  },
+  "tamil nadu__pome fruit": {
+    "mean_yield": 6.14,
+    "std_yield": 0.9,
+    "record_count": 57
+  },
+  "tamil nadu__pome granet": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 45
+  },
+  "tamil nadu__potato": {
+    "mean_yield": 18.08,
+    "std_yield": 4.22,
+    "record_count": 90
+  },
+  "tamil nadu__pulses total": {
+    "mean_yield": 0.44,
+    "std_yield": 0.12,
+    "record_count": 55
+  },
+  "tamil nadu__pump kin": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 51
+  },
+  "tamil nadu__ragi": {
+    "mean_yield": 2.19,
+    "std_yield": 0.78,
+    "record_count": 479
+  },
+  "tamil nadu__rapeseed &mustard": {
+    "mean_yield": 0.26,
+    "std_yield": 0.11,
+    "record_count": 93
+  },
+  "tamil nadu__redish": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 41
+  },
+  "tamil nadu__ribed guard": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 38
+  },
+  "tamil nadu__rice": {
+    "mean_yield": 3.46,
+    "std_yield": 1.05,
+    "record_count": 496
+  },
+  "tamil nadu__samai": {
+    "mean_yield": 0.74,
+    "std_yield": 0.12,
+    "record_count": 31
+  },
+  "tamil nadu__sannhamp": {
+    "mean_yield": 0.73,
+    "std_yield": 0.05,
+    "record_count": 32
+  },
+  "tamil nadu__sesamum": {
+    "mean_yield": 0.45,
+    "std_yield": 0.17,
+    "record_count": 353
+  },
+  "tamil nadu__small millets": {
+    "mean_yield": 1.1,
+    "std_yield": 1.94,
+    "record_count": 319
+  },
+  "tamil nadu__snak guard": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 54
+  },
+  "tamil nadu__sugarcane": {
+    "mean_yield": 57.34,
+    "std_yield": 13.53,
+    "record_count": 15
+  },
+  "tamil nadu__sunflower": {
+    "mean_yield": 1.32,
+    "std_yield": 0.8,
+    "record_count": 444
+  },
+  "tamil nadu__sweet potato": {
+    "mean_yield": 16.04,
+    "std_yield": 4.16,
+    "record_count": 313
+  },
+  "tamil nadu__tapioca": {
+    "mean_yield": 37.11,
+    "std_yield": 6.35,
+    "record_count": 384
+  },
+  "tamil nadu__tobacco": {
+    "mean_yield": 1.59,
+    "std_yield": 0.77,
+    "record_count": 143
+  },
+  "tamil nadu__tomato": {
+    "mean_yield": 10.62,
+    "std_yield": 2.53,
+    "record_count": 55
+  },
+  "tamil nadu__total foodgrain": {
+    "mean_yield": 1.27,
+    "std_yield": 1.16,
+    "record_count": 56
+  },
+  "tamil nadu__turmeric": {
+    "mean_yield": 5.13,
+    "std_yield": 1.34,
+    "record_count": 357
+  },
+  "tamil nadu__urad": {
+    "mean_yield": 0.53,
+    "std_yield": 0.46,
+    "record_count": 508
+  },
+  "tamil nadu__varagu": {
+    "mean_yield": 1.0,
+    "std_yield": 0.28,
+    "record_count": 43
+  },
+  "tamil nadu__water melon": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 32
+  },
+  "tamil nadu__wheat": {
+    "mean_yield": 0.23,
+    "std_yield": 0.24,
+    "record_count": 11
+  },
+  "tamil nadu__yam": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 36
+  },
+  "telangana__arhar/tur": {
+    "mean_yield": 0.45,
+    "std_yield": 0.19,
+    "record_count": 216
+  },
+  "telangana__bajra": {
+    "mean_yield": 0.6,
+    "std_yield": 0.19,
+    "record_count": 183
+  },
+  "telangana__banana": {
+    "mean_yield": 26.34,
+    "std_yield": 8.73,
+    "record_count": 89
+  },
+  "telangana__beans & mutter(vegetable)": {
+    "mean_yield": 3.62,
+    "std_yield": 2.39,
+    "record_count": 18
+  },
+  "telangana__bhindi": {
+    "mean_yield": 3.21,
+    "std_yield": 0.9,
+    "record_count": 18
+  },
+  "telangana__bottle gourd": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 18
+  },
+  "telangana__brinjal": {
+    "mean_yield": 7.76,
+    "std_yield": 5.11,
+    "record_count": 18
+  },
+  "telangana__cabbage": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 15
+  },
+  "telangana__cashewnut": {
+    "mean_yield": 0.3,
+    "std_yield": 0.19,
+    "record_count": 43
+  },
+  "telangana__castor seed": {
+    "mean_yield": 0.42,
+    "std_yield": 0.16,
+    "record_count": 156
+  },
+  "telangana__citrus fruit": {
+    "mean_yield": 5.81,
+    "std_yield": 1.44,
+    "record_count": 18
+  },
+  "telangana__coriander": {
+    "mean_yield": 0.49,
+    "std_yield": 0.17,
+    "record_count": 105
+  },
+  "telangana__cotton(lint)": {
+    "mean_yield": 1.81,
+    "std_yield": 0.66,
+    "record_count": 153
+  },
+  "telangana__cowpea(lobia)": {
+    "mean_yield": 0.71,
+    "std_yield": 0.36,
+    "record_count": 44
+  },
+  "telangana__cucumber": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 18
+  },
+  "telangana__dry chillies": {
+    "mean_yield": 2.63,
+    "std_yield": 1.04,
+    "record_count": 290
+  },
+  "telangana__dry ginger": {
+    "mean_yield": 6.39,
+    "std_yield": 3.36,
+    "record_count": 46
+  },
+  "telangana__garlic": {
+    "mean_yield": 2.19,
+    "std_yield": 0.72,
+    "record_count": 11
+  },
+  "telangana__ginger": {
+    "mean_yield": 8.32,
+    "std_yield": 1.58,
+    "record_count": 11
+  },
+  "telangana__gram": {
+    "mean_yield": 1.07,
+    "std_yield": 0.45,
+    "record_count": 157
+  },
+  "telangana__grapes": {
+    "mean_yield": 19.21,
+    "std_yield": 0.14,
+    "record_count": 9
+  },
+  "telangana__groundnut": {
+    "mean_yield": 1.22,
+    "std_yield": 0.51,
+    "record_count": 295
+  },
+  "telangana__horse-gram": {
+    "mean_yield": 0.34,
+    "std_yield": 0.13,
+    "record_count": 192
+  },
+  "telangana__jowar": {
+    "mean_yield": 0.86,
+    "std_yield": 0.36,
+    "record_count": 298
+  },
+  "telangana__korra": {
+    "mean_yield": 0.58,
+    "std_yield": 0.26,
+    "record_count": 17
+  },
+  "telangana__linseed": {
+    "mean_yield": 0.24,
+    "std_yield": 0.12,
+    "record_count": 38
+  },
+  "telangana__maize": {
+    "mean_yield": 3.74,
+    "std_yield": 1.25,
+    "record_count": 306
+  },
+  "telangana__mango": {
+    "mean_yield": 2.58,
+    "std_yield": 0.97,
+    "record_count": 18
+  },
+  "telangana__masoor": {
+    "mean_yield": 0.37,
+    "std_yield": 0.11,
+    "record_count": 18
+  },
+  "telangana__mesta": {
+    "mean_yield": 8.23,
+    "std_yield": 1.18,
+    "record_count": 37
+  },
+  "telangana__moong(green gram)": {
+    "mean_yield": 0.46,
+    "std_yield": 0.22,
+    "record_count": 260
+  },
+  "telangana__niger seed": {
+    "mean_yield": 0.39,
+    "std_yield": 0.03,
+    "record_count": 15
+  },
+  "telangana__onion": {
+    "mean_yield": 19.77,
+    "std_yield": 7.08,
+    "record_count": 202
+  },
+  "telangana__orange": {
+    "mean_yield": 11.83,
+    "std_yield": 6.0,
+    "record_count": 18
+  },
+  "telangana__other  rabi pulses": {
+    "mean_yield": 0.42,
+    "std_yield": 0.37,
+    "record_count": 73
+  },
+  "telangana__other fresh fruits": {
+    "mean_yield": 1.28,
+    "std_yield": 1.35,
+    "record_count": 18
+  },
+  "telangana__other kharif pulses": {
+    "mean_yield": 0.31,
+    "std_yield": 0.35,
+    "record_count": 78
+  },
+  "telangana__other vegetables": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 18
+  },
+  "telangana__peas  (vegetable)": {
+    "mean_yield": 0.0,
+    "std_yield": 0.0,
+    "record_count": 8
+  },
+  "telangana__pome fruit": {
+    "mean_yield": 7.55,
+    "std_yield": 3.51,
+    "record_count": 18
+  },
+  "telangana__potato": {
+    "mean_yield": 9.49,
+    "std_yield": 4.46,
+    "record_count": 34
+  },
+  "telangana__ragi": {
+    "mean_yield": 1.42,
+    "std_yield": 0.45,
+    "record_count": 110
+  },
+  "telangana__rapeseed &mustard": {
+    "mean_yield": 0.78,
+    "std_yield": 0.72,
+    "record_count": 40
+  },
+  "telangana__rice": {
+    "mean_yield": 2.75,
+    "std_yield": 0.53,
+    "record_count": 313
+  },
+  "telangana__safflower": {
+    "mean_yield": 0.51,
+    "std_yield": 0.18,
+    "record_count": 86
+  },
+  "telangana__samai": {
+    "mean_yield": 0.34,
+    "std_yield": 0.13,
+    "record_count": 16
+  },
+  "telangana__sesamum": {
+    "mean_yield": 0.24,
+    "std_yield": 0.11,
+    "record_count": 248
+  },
+  "telangana__small millets": {
+    "mean_yield": 0.53,
+    "std_yield": 0.24,
+    "record_count": 46
+  },
+  "telangana__soyabean": {
+    "mean_yield": 1.4,
+    "std_yield": 0.47,
+    "record_count": 67
+  },
+  "telangana__sugarcane": {
+    "mean_yield": 57.68,
+    "std_yield": 17.01,
+    "record_count": 21
+  },
+  "telangana__sunflower": {
+    "mean_yield": 0.92,
+    "std_yield": 0.41,
+    "record_count": 177
+  },
+  "telangana__sweet potato": {
+    "mean_yield": 8.73,
+    "std_yield": 3.54,
+    "record_count": 51
+  },
+  "telangana__tapioca": {
+    "mean_yield": 5.7,
+    "std_yield": 3.26,
+    "record_count": 5
+  },
+  "telangana__tobacco": {
+    "mean_yield": 2.23,
+    "std_yield": 0.99,
+    "record_count": 122
+  },
+  "telangana__tomato": {
+    "mean_yield": 5.9,
+    "std_yield": 1.2,
+    "record_count": 18
+  },
+  "telangana__turmeric": {
+    "mean_yield": 5.33,
+    "std_yield": 1.6,
+    "record_count": 113
+  },
+  "telangana__urad": {
+    "mean_yield": 0.53,
+    "std_yield": 0.24,
+    "record_count": 249
+  },
+  "telangana__wheat": {
+    "mean_yield": 0.86,
+    "std_yield": 0.37,
+    "record_count": 107
+  },
+  "telangana__other misc. pulses": {
+    "mean_yield": 0.21,
+    "std_yield": 0.1,
+    "record_count": 14
+  },
+  "telangana__other oilseeds": {
+    "mean_yield": 7.45,
+    "std_yield": 9.76,
+    "record_count": 14
+  },
+  "tripura__arhar/tur": {
+    "mean_yield": 0.72,
+    "std_yield": 0.05,
+    "record_count": 60
+  },
+  "tripura__cotton(lint)": {
+    "mean_yield": 1.32,
+    "std_yield": 0.29,
+    "record_count": 80
+  },
+  "tripura__gram": {
+    "mean_yield": 0.78,
+    "std_yield": 0.15,
+    "record_count": 52
+  },
+  "tripura__groundnut": {
+    "mean_yield": 1.1,
+    "std_yield": 0.2,
+    "record_count": 119
+  },
+  "tripura__jute": {
+    "mean_yield": 8.22,
+    "std_yield": 0.54,
+    "record_count": 60
+  },
+  "tripura__jute & mesta": {
+    "mean_yield": 8.11,
+    "std_yield": 0.5,
+    "record_count": 20
+  },
+  "tripura__maize": {
+    "mean_yield": 1.1,
+    "std_yield": 0.21,
+    "record_count": 80
+  },
+  "tripura__masoor": {
+    "mean_yield": 0.67,
+    "std_yield": 0.15,
+    "record_count": 60
+  },
+  "tripura__mesta": {
+    "mean_yield": 7.87,
+    "std_yield": 0.79,
+    "record_count": 60
+  },
+  "tripura__moong(green gram)": {
+    "mean_yield": 0.55,
+    "std_yield": 0.08,
+    "record_count": 120
+  },
+  "tripura__oilseeds total": {
+    "mean_yield": 0.7,
+    "std_yield": 0.05,
+    "record_count": 20
+  },
+  "tripura__other  rabi pulses": {
+    "mean_yield": 0.79,
+    "std_yield": 0.12,
+    "record_count": 54
+  },
+  "tripura__other kharif pulses": {
+    "mean_yield": 0.67,
+    "std_yield": 0.07,
+    "record_count": 64
+  },
+  "tripura__peas & beans (pulses)": {
+    "mean_yield": 0.76,
+    "std_yield": 0.14,
+    "record_count": 60
+  },
+  "tripura__potato": {
+    "mean_yield": 17.73,
+    "std_yield": 2.23,
+    "record_count": 20
+  },
+  "tripura__rapeseed &mustard": {
+    "mean_yield": 0.78,
+    "std_yield": 0.08,
+    "record_count": 60
+  },
+  "tripura__rice": {
+    "mean_yield": 2.48,
+    "std_yield": 0.35,
+    "record_count": 80
+  },
+  "tripura__sesamum": {
+    "mean_yield": 0.55,
+    "std_yield": 0.09,
+    "record_count": 60
+  },
+  "tripura__sugarcane": {
+    "mean_yield": 50.44,
+    "std_yield": 4.22,
+    "record_count": 80
+  },
+  "tripura__urad": {
+    "mean_yield": 0.61,
+    "std_yield": 0.12,
+    "record_count": 119
+  },
+  "tripura__wheat": {
+    "mean_yield": 2.04,
+    "std_yield": 0.22,
+    "record_count": 80
+  },
+  "uttar pradesh__arhar/tur": {
+    "mean_yield": 0.93,
+    "std_yield": 0.41,
+    "record_count": 1059
+  },
+  "uttar pradesh__bajra": {
+    "mean_yield": 1.36,
+    "std_yield": 0.5,
+    "record_count": 1174
+  },
+  "uttar pradesh__banana": {
+    "mean_yield": 41.02,
+    "std_yield": 3.11,
+    "record_count": 269
+  },
+  "uttar pradesh__barley": {
+    "mean_yield": 2.18,
+    "std_yield": 0.67,
+    "record_count": 1273
+  },
+  "uttar pradesh__castor seed": {
+    "mean_yield": 0.73,
+    "std_yield": 0.25,
+    "record_count": 34
+  },
+  "uttar pradesh__coriander": {
+    "mean_yield": 0.56,
+    "std_yield": 0.08,
+    "record_count": 563
+  },
+  "uttar pradesh__cotton(lint)": {
+    "mean_yield": 0.52,
+    "std_yield": 0.55,
+    "record_count": 221
+  },
+  "uttar pradesh__dry chillies": {
+    "mean_yield": 0.89,
+    "std_yield": 0.08,
+    "record_count": 737
+  },
+  "uttar pradesh__dry ginger": {
+    "mean_yield": 3.24,
+    "std_yield": 0.9,
+    "record_count": 94
+  },
+  "uttar pradesh__garlic": {
+    "mean_yield": 5.18,
+    "std_yield": 0.68,
+    "record_count": 550
+  },
+  "uttar pradesh__ginger": {
+    "mean_yield": 4.61,
+    "std_yield": 0.06,
+    "record_count": 6
+  },
+  "uttar pradesh__gram": {
+    "mean_yield": 0.94,
+    "std_yield": 0.45,
+    "record_count": 1240
+  },
+  "uttar pradesh__groundnut": {
+    "mean_yield": 0.85,
+    "std_yield": 0.27,
+    "record_count": 958
+  },
+  "uttar pradesh__guar seed": {
+    "mean_yield": 0.83,
+    "std_yield": 0.05,
+    "record_count": 649
+  },
+  "uttar pradesh__jowar": {
+    "mean_yield": 0.98,
+    "std_yield": 0.39,
+    "record_count": 1116
+  },
+  "uttar pradesh__jute": {
+    "mean_yield": 0.81,
+    "std_yield": 0.13,
+    "record_count": 11
+  },
+  "uttar pradesh__linseed": {
+    "mean_yield": 0.43,
+    "std_yield": 0.12,
+    "record_count": 799
+  },
+  "uttar pradesh__maize": {
+    "mean_yield": 1.65,
+    "std_yield": 0.7,
+    "record_count": 2549
+  },
+  "uttar pradesh__masoor": {
+    "mean_yield": 0.81,
+    "std_yield": 0.26,
+    "record_count": 1061
+  },
+  "uttar pradesh__moong(green gram)": {
+    "mean_yield": 0.49,
+    "std_yield": 0.22,
+    "record_count": 1826
+  },
+  "uttar pradesh__moth": {
+    "mean_yield": 0.45,
+    "std_yield": 0.21,
+    "record_count": 136
+  },
+  "uttar pradesh__oilseeds total": {
+    "mean_yield": 0.65,
+    "std_yield": 0.19,
+    "record_count": 47
+  },
+  "uttar pradesh__onion": {
+    "mean_yield": 14.38,
+    "std_yield": 3.96,
+    "record_count": 1736
+  },
+  "uttar pradesh__other  rabi pulses": {
+    "mean_yield": 1.04,
+    "std_yield": 0.3,
+    "record_count": 140
+  },
+  "uttar pradesh__other kharif pulses": {
+    "mean_yield": 0.54,
+    "std_yield": 0.13,
+    "record_count": 70
+  },
+  "uttar pradesh__peas & beans (pulses)": {
+    "mean_yield": 1.23,
+    "std_yield": 0.36,
+    "record_count": 983
+  },
+  "uttar pradesh__potato": {
+    "mean_yield": 20.9,
+    "std_yield": 4.83,
+    "record_count": 1276
+  },
+  "uttar pradesh__ragi": {
+    "mean_yield": 1.45,
+    "std_yield": 0.23,
+    "record_count": 97
+  },
+  "uttar pradesh__rapeseed &mustard": {
+    "mean_yield": 0.91,
+    "std_yield": 0.32,
+    "record_count": 1275
+  },
+  "uttar pradesh__rice": {
+    "mean_yield": 2.08,
+    "std_yield": 0.49,
+    "record_count": 1611
+  },
+  "uttar pradesh__sannhamp": {
+    "mean_yield": 0.32,
+    "std_yield": 0.11,
+    "record_count": 492
+  },
+  "uttar pradesh__sesamum": {
+    "mean_yield": 0.17,
+    "std_yield": 0.07,
+    "record_count": 1096
+  },
+  "uttar pradesh__small millets": {
+    "mean_yield": 0.73,
+    "std_yield": 0.39,
+    "record_count": 577
+  },
+  "uttar pradesh__soyabean": {
+    "mean_yield": 0.8,
+    "std_yield": 0.31,
+    "record_count": 327
+  },
+  "uttar pradesh__sugarcane": {
+    "mean_yield": 51.92,
+    "std_yield": 8.87,
+    "record_count": 1243
+  },
+  "uttar pradesh__sunflower": {
+    "mean_yield": 1.58,
+    "std_yield": 0.43,
+    "record_count": 777
+  },
+  "uttar pradesh__sweet potato": {
+    "mean_yield": 12.87,
+    "std_yield": 0.81,
+    "record_count": 722
+  },
+  "uttar pradesh__tobacco": {
+    "mean_yield": 5.14,
+    "std_yield": 1.28,
+    "record_count": 465
+  },
+  "uttar pradesh__total foodgrain": {
+    "mean_yield": 2.08,
+    "std_yield": 0.55,
+    "record_count": 47
+  },
+  "uttar pradesh__turmeric": {
+    "mean_yield": 2.55,
+    "std_yield": 0.78,
+    "record_count": 579
+  },
+  "uttar pradesh__urad": {
+    "mean_yield": 0.54,
+    "std_yield": 0.18,
+    "record_count": 1996
+  },
+  "uttar pradesh__wheat": {
+    "mean_yield": 2.76,
+    "std_yield": 0.63,
+    "record_count": 1275
+  },
+  "uttarakhand__arhar/tur": {
+    "mean_yield": 0.69,
+    "std_yield": 0.2,
+    "record_count": 164
+  },
+  "uttarakhand__bajra": {
+    "mean_yield": 1.09,
+    "std_yield": 0.15,
+    "record_count": 15
+  },
+  "uttarakhand__barley": {
+    "mean_yield": 1.22,
+    "std_yield": 0.33,
+    "record_count": 195
+  },
+  "uttarakhand__dry chillies": {
+    "mean_yield": 0.3,
+    "std_yield": 0.08,
+    "record_count": 12
+  },
+  "uttarakhand__dry ginger": {
+    "mean_yield": 9.28,
+    "std_yield": 2.82,
+    "record_count": 121
+  },
+  "uttarakhand__garlic": {
+    "mean_yield": 1.86,
+    "std_yield": 0.76,
+    "record_count": 132
+  },
+  "uttarakhand__ginger": {
+    "mean_yield": 10.15,
+    "std_yield": 3.06,
+    "record_count": 57
+  },
+  "uttarakhand__gram": {
+    "mean_yield": 0.66,
+    "std_yield": 0.17,
+    "record_count": 154
+  },
+  "uttarakhand__groundnut": {
+    "mean_yield": 1.03,
+    "std_yield": 0.2,
+    "record_count": 76
+  },
+  "uttarakhand__horse-gram": {
+    "mean_yield": 0.71,
+    "std_yield": 0.2,
+    "record_count": 162
+  },
+  "uttarakhand__lentil": {
+    "mean_yield": 0.68,
+    "std_yield": 0.16,
+    "record_count": 13
+  },
+  "uttarakhand__linseed": {
+    "mean_yield": 0.37,
+    "std_yield": 0.09,
+    "record_count": 14
+  },
+  "uttarakhand__maize": {
+    "mean_yield": 1.41,
+    "std_yield": 0.46,
+    "record_count": 247
+  },
+  "uttarakhand__masoor": {
+    "mean_yield": 0.59,
+    "std_yield": 0.18,
+    "record_count": 195
+  },
+  "uttarakhand__moong(green gram)": {
+    "mean_yield": 0.52,
+    "std_yield": 0.22,
+    "record_count": 58
+  },
+  "uttarakhand__moth": {
+    "mean_yield": 0.43,
+    "std_yield": 0.2,
+    "record_count": 21
+  },
+  "uttarakhand__onion": {
+    "mean_yield": 7.04,
+    "std_yield": 3.05,
+    "record_count": 192
+  },
+  "uttarakhand__other  rabi pulses": {
+    "mean_yield": 0.58,
+    "std_yield": 0.19,
+    "record_count": 78
+  },
+  "uttarakhand__other cereals & millets": {
+    "mean_yield": 0.87,
+    "std_yield": 0.37,
+    "record_count": 211
+  },
+  "uttarakhand__other kharif pulses": {
+    "mean_yield": 0.8,
+    "std_yield": 0.92,
+    "record_count": 174
+  },
+  "uttarakhand__peas & beans (pulses)": {
+    "mean_yield": 0.68,
+    "std_yield": 0.18,
+    "record_count": 191
+  },
+  "uttarakhand__potato": {
+    "mean_yield": 12.77,
+    "std_yield": 5.62,
+    "record_count": 319
+  },
+  "uttarakhand__pulses total": {
+    "mean_yield": 0.77,
+    "std_yield": 0.17,
+    "record_count": 41
+  },
+  "uttarakhand__ragi": {
+    "mean_yield": 1.4,
+    "std_yield": 0.21,
+    "record_count": 167
+  },
+  "uttarakhand__rapeseed &mustard": {
+    "mean_yield": 0.58,
+    "std_yield": 0.23,
+    "record_count": 195
+  },
+  "uttarakhand__rice": {
+    "mean_yield": 1.87,
+    "std_yield": 0.78,
+    "record_count": 246
+  },
+  "uttarakhand__sesamum": {
+    "mean_yield": 0.22,
+    "std_yield": 0.06,
+    "record_count": 190
+  },
+  "uttarakhand__small millets": {
+    "mean_yield": 1.15,
+    "std_yield": 0.25,
+    "record_count": 102
+  },
+  "uttarakhand__soyabean": {
+    "mean_yield": 1.01,
+    "std_yield": 0.39,
+    "record_count": 177
+  },
+  "uttarakhand__sugarcane": {
+    "mean_yield": 59.99,
+    "std_yield": 3.17,
+    "record_count": 76
+  },
+  "uttarakhand__sunflower": {
+    "mean_yield": 0.94,
+    "std_yield": 0.23,
+    "record_count": 43
+  },
+  "uttarakhand__tobacco": {
+    "mean_yield": 4.42,
+    "std_yield": 2.1,
+    "record_count": 51
+  },
+  "uttarakhand__total foodgrain": {
+    "mean_yield": 1.69,
+    "std_yield": 0.64,
+    "record_count": 44
+  },
+  "uttarakhand__turmeric": {
+    "mean_yield": 3.44,
+    "std_yield": 2.83,
+    "record_count": 85
+  },
+  "uttarakhand__urad": {
+    "mean_yield": 0.6,
+    "std_yield": 0.19,
+    "record_count": 226
+  },
+  "uttarakhand__wheat": {
+    "mean_yield": 1.69,
+    "std_yield": 0.76,
+    "record_count": 195
+  },
+  "uttarakhand__other oilseeds": {
+    "mean_yield": 0.61,
+    "std_yield": 0.21,
+    "record_count": 184
+  },
+  "west bengal__arecanut": {
+    "mean_yield": 2.01,
+    "std_yield": 1.74,
+    "record_count": 188
+  },
+  "west bengal__arhar/tur": {
+    "mean_yield": 0.89,
+    "std_yield": 0.38,
+    "record_count": 212
+  },
+  "west bengal__bajra": {
+    "mean_yield": 0.6,
+    "std_yield": 0.36,
+    "record_count": 41
+  },
+  "west bengal__barley": {
+    "mean_yield": 1.28,
+    "std_yield": 0.89,
+    "record_count": 125
+  },
+  "west bengal__cardamom": {
+    "mean_yield": 0.48,
+    "std_yield": 0.84,
+    "record_count": 10
+  },
+  "west bengal__castor seed": {
+    "mean_yield": 0.74,
+    "std_yield": 0.28,
+    "record_count": 17
+  },
+  "west bengal__cotton(lint)": {
+    "mean_yield": 2.61,
+    "std_yield": 1.71,
+    "record_count": 59
+  },
+  "west bengal__dry chillies": {
+    "mean_yield": 1.03,
+    "std_yield": 0.45,
+    "record_count": 252
+  },
+  "west bengal__dry ginger": {
+    "mean_yield": 1.67,
+    "std_yield": 0.7,
+    "record_count": 196
+  },
+  "west bengal__garlic": {
+    "mean_yield": 10.54,
+    "std_yield": 1.54,
+    "record_count": 18
+  },
+  "west bengal__gram": {
+    "mean_yield": 0.92,
+    "std_yield": 0.28,
+    "record_count": 234
+  },
+  "west bengal__groundnut": {
+    "mean_yield": 1.45,
+    "std_yield": 0.55,
+    "record_count": 542
+  },
+  "west bengal__horse-gram": {
+    "mean_yield": 0.5,
+    "std_yield": 0.19,
+    "record_count": 180
+  },
+  "west bengal__jowar": {
+    "mean_yield": 0.65,
+    "std_yield": 0.72,
+    "record_count": 59
+  },
+  "west bengal__jute": {
+    "mean_yield": 14.78,
+    "std_yield": 3.46,
+    "record_count": 305
+  },
+  "west bengal__khesari": {
+    "mean_yield": 0.93,
+    "std_yield": 0.34,
+    "record_count": 287
+  },
+  "west bengal__linseed": {
+    "mean_yield": 0.32,
+    "std_yield": 0.18,
+    "record_count": 241
+  },
+  "west bengal__maize": {
+    "mean_yield": 2.75,
+    "std_yield": 1.41,
+    "record_count": 464
+  },
+  "west bengal__masoor": {
+    "mean_yield": 0.7,
+    "std_yield": 0.24,
+    "record_count": 304
+  },
+  "west bengal__mesta": {
+    "mean_yield": 9.57,
+    "std_yield": 3.38,
+    "record_count": 209
+  },
+  "west bengal__moong(green gram)": {
+    "mean_yield": 0.61,
+    "std_yield": 0.41,
+    "record_count": 628
+  },
+  "west bengal__niger seed": {
+    "mean_yield": 0.49,
+    "std_yield": 0.22,
+    "record_count": 129
+  },
+  "west bengal__oilseeds total": {
+    "mean_yield": 0.7,
+    "std_yield": 0.21,
+    "record_count": 18
+  },
+  "west bengal__other  rabi pulses": {
+    "mean_yield": 0.44,
+    "std_yield": 0.14,
+    "record_count": 18
+  },
+  "west bengal__other kharif pulses": {
+    "mean_yield": 0.54,
+    "std_yield": 0.19,
+    "record_count": 88
+  },
+  "west bengal__peas & beans (pulses)": {
+    "mean_yield": 0.89,
+    "std_yield": 0.3,
+    "record_count": 263
+  },
+  "west bengal__potato": {
+    "mean_yield": 22.35,
+    "std_yield": 7.11,
+    "record_count": 332
+  },
+  "west bengal__pulses total": {
+    "mean_yield": 0.73,
+    "std_yield": 0.27,
+    "record_count": 18
+  },
+  "west bengal__ragi": {
+    "mean_yield": 0.8,
+    "std_yield": 0.45,
+    "record_count": 92
+  },
+  "west bengal__rapeseed &mustard": {
+    "mean_yield": 0.81,
+    "std_yield": 0.24,
+    "record_count": 322
+  },
+  "west bengal__rice": {
+    "mean_yield": 2.43,
+    "std_yield": 0.64,
+    "record_count": 969
+  },
+  "west bengal__safflower": {
+    "mean_yield": 0.75,
+    "std_yield": 0.44,
+    "record_count": 94
+  },
+  "west bengal__sannhamp": {
+    "mean_yield": 4.87,
+    "std_yield": 1.2,
+    "record_count": 137
+  },
+  "west bengal__sesamum": {
+    "mean_yield": 0.71,
+    "std_yield": 0.26,
+    "record_count": 514
+  },
+  "west bengal__small millets": {
+    "mean_yield": 0.79,
+    "std_yield": 0.45,
+    "record_count": 144
+  },
+  "west bengal__soyabean": {
+    "mean_yield": 0.63,
+    "std_yield": 0.49,
+    "record_count": 72
+  },
+  "west bengal__sugarcane": {
+    "mean_yield": 58.32,
+    "std_yield": 10.38,
+    "record_count": 82
+  },
+  "west bengal__sunflower": {
+    "mean_yield": 1.14,
+    "std_yield": 0.4,
+    "record_count": 207
+  },
+  "west bengal__tobacco": {
+    "mean_yield": 0.83,
+    "std_yield": 0.4,
+    "record_count": 82
+  },
+  "west bengal__turmeric": {
+    "mean_yield": 1.78,
+    "std_yield": 0.86,
+    "record_count": 216
+  },
+  "west bengal__urad": {
+    "mean_yield": 0.65,
+    "std_yield": 0.64,
+    "record_count": 496
+  },
+  "west bengal__wheat": {
+    "mean_yield": 2.25,
+    "std_yield": 0.46,
+    "record_count": 323
+  }
+}

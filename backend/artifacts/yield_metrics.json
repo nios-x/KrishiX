@@ -1,0 +1,20 @@
+{
+  "model_name": "Random Forest Regressor Pipeline",
+  "dataset": "Crop Production Data India (246K+ records)",
+  "training_samples": 48000,
+  "test_samples": 12000,
+  "features": [
+    "State_Name",
+    "Crop",
+    "Season",
+    "Crop_Year",
+    "Area"
+  ],
+  "target": "Yield (tonnes/hectare)",
+  "metrics": {
+    "mae": 1.1862,
+    "rmse": 2.6754,
+    "r2_score": 0.8983
+  },
+  "benchmark_count": 1164
+}

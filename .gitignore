@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.pyre/
+
+# Node.js and frontend builds
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+*.pem
+dataset/
+.venv
+# Logs and local runtime files
+*.log
+logs/
+*.pid
+
+# ML and application caches
+.cache/
+rag_cache/
+vector_store/
+.venv/
+*.h5
+*.keras
+**/*.h5
+**/*.keras
+shan/Soil Health Analysis/models/fertilizer_model.pkl
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor and operating-system files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Backend runtime state (registry + cache databases)
+backend/instance/
+
+# ML model binaries (large; not source, and Tailwind must not scan them)
+*.onnx
